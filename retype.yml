@@ -1,0 +1,15 @@
+url: docs.pololer.my.id
+
+input: ./docs
+
+exclude:
+  - "hidden/"
+
+branding:
+  title: Docs pololer-project
+
+edit:
+  repo: "https://github.com/Aruh1/dedocs/edit/"
+  base: /docs/
+  branch: "master"
+  label: "Edit this page"
