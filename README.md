@@ -14,7 +14,7 @@
 <div align="center">
 
 [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/Aruh1/dedocs/retype-action.yml?style=flat&logo=github)](https://github.com/Aruh1/dedocs/actions/workflows/retype-action.yml) [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/Aruh1/dedocs/links.yml?logo=github&label=links)](https://github.com/Aruh1/dedocs/actions/workflows/links.yml)
- [![GitHub issues](https://img.shields.io/github/issues/Aruh1/dedocs?style=flat&logo=github)](https://github.com/Aruh1/dedocs/issues) [![Lisensi](https://img.shields.io/github/Lisensi/Aruh1/dedocs?style=flat&logo=unLisensi)](https://github.com/Aruh1/dedocs/blob/master/Lisensi) [![Discord](https://img.shields.io/discord/980882697968828436?style=flat&logo=discord)](https://discord.gg/qefR5pXp8z)
+ [![GitHub issues](https://img.shields.io/github/issues/Aruh1/dedocs?style=flat&logo=github)](https://github.com/Aruh1/dedocs/issues) [![Lisensi](https://img.shields.io/github/license/Aruh1/dedocs?style=flat&logo=unlicense)](https://github.com/Aruh1/dedocs/blob/master/LICENSE) [![Discord](https://img.shields.io/discord/980882697968828436?style=flat&logo=discord)](https://discord.gg/qefR5pXp8z)
 
 </div>
 
@@ -116,7 +116,7 @@ Contributions are **much appreciated**!
 
 ## Lisensi
 
-Distributed under the [UnLisensi](https://chooseaLisensi.com/Lisensis/unLisensi/) Lisensi. See [Lisensi](https://github.com/Aruh1/dedocs/blob/master/LICENSE) for more information.
+Distributed under the [unlicense](https://choosealicense.com/licenses/unlicense/) Lisensi. See [Lisensi](https://github.com/Aruh1/dedocs/blob/master/LICENSE) for more information.
 
 ## Kontributor
 
