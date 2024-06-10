@@ -22,10 +22,10 @@ jobs:
             --max-redirects 10
             --header "accept=*/*"
             --accept 200,204,206,403,429
-            --base 'https://thewiki.moe'
+            --base 'https://docs.pololer.my.id'
             --exclude-path './docs/hidden'
             --exclude '^https://cdn.lewd.host'
-            --exclude 'https://discordapp.com/api/guilds/980882697968828436/widget.png?style=banner2'
+            --exclude 'https://discordapp.com'
             './**/*.md'
 
 #           Public trackers, streaming sites, crunchyroll, kodi, qbittorrent, etc return 403
