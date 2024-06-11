@@ -2,6 +2,8 @@
 label: Home
 icon: home
 description: Docs untuk pololer-project
+favicon: https://ptpimg.me/animated_favicon.gif
+poweredByRetype: false
 ---
 
 # Home

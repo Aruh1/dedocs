@@ -2,6 +2,9 @@ url: docs.pololer.my.id
 
 input: ./docs
 
+start:
+  pro: true
+
 exclude:
   - "hidden/"
 
