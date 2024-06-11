@@ -37,7 +37,7 @@ for kernel in [Bilinear, Catrom, BicubicSharp, Lanczos(3)]:
     set_output(err, f"{name} Diff")
 ```
 
-Dan ngerun menggunakan vs-preview dari vs-jet `vspreview descale.vpy`
+Dan ngerun menggunakan [vs-preview](https://github.com/Jaded-Encoding-Thaumaturgy/vs-preview) dari [vs-jet](https://github.com/Jaded-Encoding-Thaumaturgy/vs-jet) `vspreview descale.vpy`
 
 Contoh hasilnya seperti [ini](https://slow.pics/c/49QvOKoW).
 
@@ -50,10 +50,13 @@ dict(width=1356, height=763, src_top = 0.3625, src_height = 762.7, src_width=135
 ```
 
 ```py
+from vstools import core
 from vskernels import Hermite
-from vodesfunc import Waifu2x_Doubler, DescaleTarget
+from vodesfunc import Waifu2x_Doubler, DescaleTarget, set_output
 
-DescaleTarget(
+src = core.bs.VideoSource(r"YourVideo.mkv")
+
+descale = DescaleTarget(
     height=762.7,
     base_height=763,
     width=1355.9,
@@ -63,8 +66,12 @@ DescaleTarget(
     upscaler=Waifu2x_Doubler(),
     downscaler=Hermite(linear=True),
 )
+rescale = descale.get_upscaled(src)
+
+set_output(src)
+set_output(rescale)
 ```
 
 Sekian dari saya.
 
-Referense by [N4O](https://blog.n4o.xyz/posts/descalingvideo).
+Reference by [N4O](https://blog.n4o.xyz/posts/descalingvideo).
