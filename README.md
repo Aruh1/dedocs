@@ -120,6 +120,6 @@ Distributed under the [unlicense](https://choosealicense.com/licenses/unlicense/
 
 ## Kontributor
 
-<a href="https://github.com/Aruh1/dedocs/Kontributor">
+<a href="https://github.com/Aruh1/dedocs/contributors">
   <img src="https://contrib.rocks/image?repo=Aruh1/dedocs" />
 </a>
