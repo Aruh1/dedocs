@@ -9,7 +9,7 @@ Kernel yang sering dipakai biasanya Bilinear untuk upscale Anime dari resolusi a
 Untuk permulaan, buatlah file baru dan tambah kode seperti ini (Ekstensi file: .vpy).
 
 ```py
-rom vskernels import (
+from vskernels import (
     BicubicSharp,
     Bilinear,
     Catrom,
