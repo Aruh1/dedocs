@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.771412291666">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.771413711221">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -30,12 +30,12 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.5.0.771412291666" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.771413711221" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.771412291666" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.771413711221" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.771412291666" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.5.0.771412291666" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.771413711221" data-turbo-eval="false" defer></script>
+    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.5.0.771413711221" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -188,7 +188,7 @@ for kernel in [Bilinear, Catrom, BicubicSharp, Lanczos(3)]:
     set_output(resc, f&quot;{name} Rescale&quot;)
     set_output(err, f&quot;{name} Diff&quot;)</code></pre>
 </doc-codeblock></div>
-<p>Dan ngerun menggunakan vs-preview dari vs-jet <code v-pre>vspreview descale.vpy</code></p>
+<p>Dan ngerun menggunakan <a href="https://github.com/Jaded-Encoding-Thaumaturgy/vs-preview">vs-preview</a> dari <a href="https://github.com/Jaded-Encoding-Thaumaturgy/vs-jet">vs-jet</a> <code v-pre>vspreview descale.vpy</code></p>
 <p>Contoh hasilnya seperti <a href="https://slow.pics/c/49QvOKoW">ini</a>.</p>
 <p>Dikala Anda sudah mengecek native yang udah fix, aku sarankan menggunakan <a href="https://muxtools.vodes.pw/vodesfunc/descale/#vodesfunc.descale.DescaleTarget">DescaleTarget</a> dari <a href="https://github.com/Vodes/vodesfunc">vodesfunc</a>.</p>
 <p>Contoh:</p>
@@ -196,10 +196,13 @@ for kernel in [Bilinear, Catrom, BicubicSharp, Lanczos(3)]:
 <pre class="language-python"><code v-pre class="language-python">dict(width=1356, height=763, src_top = 0.3625, src_height = 762.7, src_width=1355.9, src_left=0.0625)</code></pre>
 </doc-codeblock></div>
 <div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-python"><code v-pre class="language-python">from vskernels import Hermite
-from vodesfunc import Waifu2x_Doubler, DescaleTarget
+<pre class="language-python"><code v-pre class="language-python">from vstools import core
+from vskernels import Hermite
+from vodesfunc import Waifu2x_Doubler, DescaleTarget, set_output
 
-DescaleTarget(
+src = core.bs.VideoSource(r&quot;YourVideo.mkv&quot;)
+
+descale = DescaleTarget(
     height=762.7,
     base_height=763,
     width=1355.9,
@@ -208,10 +211,14 @@ DescaleTarget(
     kernel=Bilinear,
     upscaler=Waifu2x_Doubler(),
     downscaler=Hermite(linear=True),
-)</code></pre>
+)
+rescale = descale.get_upscaled(src)
+
+set_output(src)
+set_output(rescale)</code></pre>
 </doc-codeblock></div>
 <p>Sekian dari saya.</p>
-<p>Referense by <a href="https://blog.n4o.xyz/posts/descalingvideo">N4O</a>.</p>
+<p>Reference by <a href="https://blog.n4o.xyz/posts/descalingvideo">N4O</a>.</p>
 
                                 
                                 <!-- Required only on API pages -->
