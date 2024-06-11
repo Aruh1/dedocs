@@ -5,7 +5,7 @@
 - VapourSynth dan tetebengeknya
 - Wrapper seperti vsjet
 
-Silakan ikuti langkah instalasi Vapoursynth berikut terlebih dahulu:
+## Silakan ikuti langkah instalasi VapourSynth berikut terlebih dahulu:
 
 ### Yang dibutuhkan:
 - [Python](https://www.python.org/downloads/)
