@@ -67,6 +67,8 @@ Saya sarankan menggunakan [AdGuard](https://adguard-dns.io.).
 
 Memblokir iklan saat mendownload anime dapat dilakukan melalui Userscript, DNS, dan VPN. Masing-masing metode menawarkan kelebihan dan kekurangan yang unik. Userscript memberikan kontrol spesifik pada halaman web, sementara DNS dan VPN menawarkan solusi yang lebih global dan komprehensif. Dengan menggunakan layanan seperti AdGuard dan Cloudflare 1.1.1.1, Anda dapat menikmati pengalaman mendownload anime yang lebih aman dan bebas dari gangguan iklan.
 
+Catatan: Semua yang ada di sini sudah kutes menggunakan semua provider (Seperti IndiHome, Biznet, dll) yang ada di Indonesia dan hasilnya work semua. (Testing with Starlink soon :v)
+
 ## Referensi
 
 - [Cloudflare 1.1.1.1](https://one.one.one.one/)
