@@ -25,13 +25,15 @@ jobs:
             --base 'https://docs.pololer.my.id'
             --exclude-path './docs/hidden'
             --exclude '^https://cdn.lewd.host'
-            --exclude 'https://discordapp.com'
+            --exclude '^https://discordapp.com'
+            --exlude '^https://adguard-dns.io'
             './**/*.md'
 
 #           Public trackers, streaming sites, crunchyroll, kodi, qbittorrent, etc return 403
 #           Nyaa returns 429
 #           ./docs/hidden has unmaintained legacy files
 #           AMD fails for reasons unknown to me, exhentai is private, and nzbking has bad uptime
+#           DNS AdGuard getting Err
 
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
