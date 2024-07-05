@@ -21,10 +21,10 @@ Tabel ini berisi informasi berikut:
 
 Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mungkin tidak akurat atau ketinggalan zaman! Terimalah dengan bijaksana, dan lakukan uji tuntas. Verifikasi semuanya sendiri sebelum menerapkan descale pada encode Anda!
 
+### Summer 2024
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
-**Summer 2024** |
 [Maou Gun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876/Maougun_Saikyou_no_Majutsushi_wa_Ningen_datta) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/PXvsFclw) | Butuh Bilinear border
 [Oshi no Ko Season 2](https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season) | 837 | Tidak | |
 [Shikanoko Nokonoko Koshitantan](https://myanimelist.net/anime/58426/Shikanoko_Nokonoko_Koshitantan) | ~864, 871/872, 1080 ("Tidak diketahui") | Iya (?) | | PR, Menunggu versi CR tanggal 7 Juli
