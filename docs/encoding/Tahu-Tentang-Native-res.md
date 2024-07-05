@@ -25,7 +25,10 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
+[Giji Harem](https://myanimelist.net/anime/54968) | Acak (?) | Tidak | |
+[Gimai Seikatsu](https://myanimelist.net/anime/52481) | ? | Tidak | | 
 [Maougun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/PXvsFclw) | Butuh Bilinear border
+[Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai](https://myanimelist.net/anime/57058) | ~899.65/899.8/900(Center Match(?)) (Lanczos(2) (?)) | Iya (?) | | Agak sulit mengetesnya.
 [Oshi no Ko Season 2](https://myanimelist.net/anime/55791) | 837 | Tidak | |
 [Senpai wa Otokonoko](https://myanimelist.net/anime/54855) | ~837.2 | Tidak | | 
 [Shikanoko Nokonoko Koshitantan](https://myanimelist.net/anime/58426) | ~864, 871/872, 1080 ("Tidak diketahui") | Iya (?) | | PR, Menunggu versi CR tanggal 7 Juli
