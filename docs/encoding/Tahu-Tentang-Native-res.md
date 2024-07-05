@@ -25,10 +25,10 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
-[Maou Gun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876/Maougun_Saikyou_no_Majutsushi_wa_Ningen_datta) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/PXvsFclw) | Butuh Bilinear border
-[Oshi no Ko Season 2](https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season) | 837 | Tidak | |
+[Maougun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/PXvsFclw) | Butuh Bilinear border
+[Oshi no Ko Season 2](https://myanimelist.net/anime/55791) | 837 | Tidak | |
 [Senpai wa Otokonoko](https://myanimelist.net/anime/54855) | ~837.2 | Tidak | | 
-[Shikanoko Nokonoko Koshitantan](https://myanimelist.net/anime/58426/Shikanoko_Nokonoko_Koshitantan) | ~864, 871/872, 1080 ("Tidak diketahui") | Iya (?) | | PR, Menunggu versi CR tanggal 7 Juli
-[Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.](https://myanimelist.net/anime/54913/Shinmai_Ossan_Boukensha_Saikyou_Party_ni_Shinu_hodo_Kitaerarete_Muteki_ni_Naru) | 812.05 (AdobeBicubic) | Iya (?) | [Link](https://slow.pics/c/ln9ZZY5V) | Menggunakan Bicubic(0, 0.75) alias AdobeBicubic
-[Shy Season 2](https://myanimelist.net/anime/57567/Shy_2nd_Season) | 812.05 (Bilinear) | Iya (?) | [Link](https://slow.pics/c/jTqMJ70K) | Kemungkinan resolusi fractional sekitar 812.04 atau 812.05
-[Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san](https://myanimelist.net/anime/54744/Tokidoki_Bosotto_Russia-go_de_Dereru_Tonari_no_Alya-san) | 837 | Tidak | | 
+[Shikanoko Nokonoko Koshitantan](https://myanimelist.net/anime/58426) | ~864, 871/872, 1080 ("Tidak diketahui") | Iya (?) | | PR, Menunggu versi CR tanggal 7 Juli
+[Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.](https://myanimelist.net/anime/54913) | 812.05 (AdobeBicubic) | Iya (?) | [Link](https://slow.pics/c/ln9ZZY5V) | Menggunakan Bicubic(0, 0.75) alias AdobeBicubic
+[Shy Season 2](https://myanimelist.net/anime/57567) | 812.05 (Bilinear) | Iya (?) | [Link](https://slow.pics/c/jTqMJ70K) | Kemungkinan resolusi fractional sekitar 812.04 atau 812.05
+[Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san](https://myanimelist.net/anime/54744san) | 837 | Tidak | | 
