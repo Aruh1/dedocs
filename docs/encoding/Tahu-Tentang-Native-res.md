@@ -41,4 +41,5 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Shikanoko Nokonoko Koshitantan](https://myanimelist.net/anime/58426) | ~864, 871/872, 1080 ("Tidak diketahui") | Iya (?) | | PR, Menunggu versi CR tanggal 7 Juli
 [Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.](https://myanimelist.net/anime/54913) | 812.05 (AdobeBicubic) | Iya (?) | [Link](https://slow.pics/c/ln9ZZY5V) | Menggunakan Bicubic(0, 0.75) alias AdobeBicubic
 [Shy Season 2](https://myanimelist.net/anime/57567) | 812.05 (Bilinear) | Iya (?) | [Link](https://slow.pics/c/jTqMJ70K) | Kemungkinan resolusi fractional sekitar 812.04 atau 812.05
+[Shoushimin Series](https://myanimelist.net/anime/57810) | 900 | Iya* | [Link](https://slow.pics/c/XZrhiZAo) | Pas ngecek height frac ntah kenapa jadi berantakan nativenya, tapi widht-nya 1600
 [Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san](https://myanimelist.net/anime/54744san) | 837 | Tidak | | 
