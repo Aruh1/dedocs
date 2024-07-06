@@ -31,6 +31,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made](https://myanimelist.net/anime/57892) | 942.6 (Bilinear) | Iya* | [Link](https://slow.pics/c/OE9nW0rY) | height=944, src_height=942.6, src_top=0.325. Sangat sulit :wkwk:
 [Maougun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/PXvsFclw) | Butuh Bilinear border
 [Megami no Café Terrace Season 2](https://myanimelist.net/anime/55749) | 844 (Bilinear) | Iya | [Link](https://slow.pics/c/ZDiB99rt) | int
+[Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864)| 1080p | | | :yes:
 [Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai](https://myanimelist.net/anime/57058) | ~899.65/899.8/900(Center Match(?)) (Lanczos(2) (?)) | Iya (?) | | Agak sulit mengetesnya.
 [Oshi no Ko Season 2](https://myanimelist.net/anime/55791) | 837 | Tidak | |
 [Senpai wa Otokonoko](https://myanimelist.net/anime/54855) | ~837.2 | Tidak | | 
