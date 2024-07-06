@@ -26,11 +26,13 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
 [2.5-jigen no Ririsa](https://myanimelist.net/anime/53802) | 900 | Tidak | | 
+[Dungeon no Naka no Hito](https://myanimelist.net/anime/56348) | ~900, 945 | Tidak | | |
 [Giji Harem](https://myanimelist.net/anime/54968) | Acak (?) | Tidak | |
 [Gimai Seikatsu](https://myanimelist.net/anime/52481) | ? | Tidak | | 
 [Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made](https://myanimelist.net/anime/57892) | 942.6 (Bilinear) | Iya* | [Link](https://slow.pics/c/OE9nW0rY) | height=944, src_height=942.6, src_top=0.325. Sangat sulit :wkwk:
 [Maougun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/PXvsFclw) | Butuh Bilinear border
 [Megami no Café Terrace Season 2](https://myanimelist.net/anime/55749) | 844 (Bilinear) | Iya | [Link](https://slow.pics/c/ZDiB99rt) | int
+[Mob kara Hajimaru Tansaku Eiyuutan](https://myanimelist.net/anime/57646) | 900 (Bilinar) | Iya (?) | [Link](https://slow.pics/c/TsPngEwh) | Butuh Bilinear border
 [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864)| 1080p | | | :yes:
 [Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai](https://myanimelist.net/anime/57058) | ~899.65/899.8/900(Center Match(?)) (Lanczos(2) (?)) | Iya (?) | | Agak sulit mengetesnya.
 [Oshi no Ko Season 2](https://myanimelist.net/anime/55791) | 837 | Tidak | |
