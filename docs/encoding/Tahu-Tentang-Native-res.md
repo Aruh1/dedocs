@@ -31,6 +31,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Giji Harem](https://myanimelist.net/anime/54968) | Acak (?) | Tidak | |
 [Gimai Seikatsu](https://myanimelist.net/anime/52481) | ? | Tidak | | 
 [Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made](https://myanimelist.net/anime/57892) | 942.6 (Bilinear) | Iya* | [Link](https://slow.pics/c/OE9nW0rY) | height=944, src_height=942.6, src_top=0.325. Sangat sulit :wkwk:
+[Kono Sekai wa Fukanzen Sugiru](https://myanimelist.net/anime/54835) | Acak (?) | Tidak | | Sumbernya lumayan bagus
 [Madougushi Dahliya wa Utsumukanai](https://myanimelist.net/anime/56449) | ~840, 844 | Tidak | | Terlalu blur, malas
 [Maougun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/PXvsFclw) | Butuh Bilinear border
 [Megami no Café Terrace Season 2](https://myanimelist.net/anime/55749) | 844 (Bilinear) | Iya | [Link](https://slow.pics/c/ZDiB99rt) | int
@@ -40,7 +41,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai](https://myanimelist.net/anime/57058) | ~899.65/899.8/900(Center Match(?)) (Lanczos(2) (?)) | Iya (?) | | Agak sulit mengetesnya.
 [Oshi no Ko Season 2](https://myanimelist.net/anime/55791) | 837 | Tidak | |
 [Senpai wa Otokonoko](https://myanimelist.net/anime/54855) | ~837.2 | Tidak | | 
-[Shikanoko Nokonoko Koshitantan](https://myanimelist.net/anime/58426) | ~864, 871/872, 1080 ("Tidak diketahui") | Iya (?) | | PR, Menunggu versi CR tanggal 7 Juli
+[Shikanoko Nokonoko Koshitantan](https://myanimelist.net/anime/58426) | 1080 | | | Hanya sumber CR yang bagus, great job WIT Studio
 [Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.](https://myanimelist.net/anime/54913) | 812.05 (AdobeBicubic) | Iya (?) | [Link](https://slow.pics/c/ln9ZZY5V) | Menggunakan Bicubic(0, 0.75) alias AdobeBicubic
 [Shy Season 2](https://myanimelist.net/anime/57567) | 812.05 (Bilinear) | Iya (?) | [Link](https://slow.pics/c/jTqMJ70K) | Kemungkinan resolusi fractional sekitar 812.04 atau 812.05
 [Shoushimin Series](https://myanimelist.net/anime/57810) | 900 | Iya* | [Link](https://slow.pics/c/XZrhiZAo) | Pas ngecek height frac ntah kenapa jadi berantakan nativenya, tapi widht-nya 1600
