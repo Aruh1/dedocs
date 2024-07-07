@@ -27,6 +27,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 ---  | --- | --- | ---
 [2.5-jigen no Ririsa](https://myanimelist.net/anime/53802) | 900 | Tidak | | 
 [Dungeon no Naka no Hito](https://myanimelist.net/anime/56348) | ~900, 945 | Tidak | | |
+[Fairy Tail: 100-nen Quest](https://myanimelist.net/anime/49785) | ~900 | Tidak | | /shrug
 [Giji Harem](https://myanimelist.net/anime/54968) | Acak (?) | Tidak | |
 [Gimai Seikatsu](https://myanimelist.net/anime/52481) | ? | Tidak | | 
 [Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made](https://myanimelist.net/anime/57892) | 942.6 (Bilinear) | Iya* | [Link](https://slow.pics/c/OE9nW0rY) | height=944, src_height=942.6, src_top=0.325. Sangat sulit :wkwk:
@@ -35,6 +36,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Megami no Café Terrace Season 2](https://myanimelist.net/anime/55749) | 844 (Bilinear) | Iya | [Link](https://slow.pics/c/ZDiB99rt) | int
 [Mob kara Hajimaru Tansaku Eiyuutan](https://myanimelist.net/anime/57646) | 900 (Bilinar) | Iya (?) | [Link](https://slow.pics/c/TsPngEwh) | Butuh Bilinear border
 [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864)| 1080p | | | :yes:
+[Nige Jouzu no Wakagimi](https://myanimelist.net/anime/54724) | Acak (?) | Tidak | | Dari kualitasnya lumayan bagus
 [Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai](https://myanimelist.net/anime/57058) | ~899.65/899.8/900(Center Match(?)) (Lanczos(2) (?)) | Iya (?) | | Agak sulit mengetesnya.
 [Oshi no Ko Season 2](https://myanimelist.net/anime/55791) | 837 | Tidak | |
 [Senpai wa Otokonoko](https://myanimelist.net/anime/54855) | ~837.2 | Tidak | | 
@@ -43,3 +45,4 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Shy Season 2](https://myanimelist.net/anime/57567) | 812.05 (Bilinear) | Iya (?) | [Link](https://slow.pics/c/jTqMJ70K) | Kemungkinan resolusi fractional sekitar 812.04 atau 812.05
 [Shoushimin Series](https://myanimelist.net/anime/57810) | 900 | Iya* | [Link](https://slow.pics/c/XZrhiZAo) | Pas ngecek height frac ntah kenapa jadi berantakan nativenya, tapi widht-nya 1600
 [Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san](https://myanimelist.net/anime/54744san) | 837 | Tidak | | 
+[Tsue to Tsurugi no Wistoria](https://myanimelist.net/anime/58059) | 864.05 | Tidak | | Beberapa scene yang tidak konsisten nativenya
