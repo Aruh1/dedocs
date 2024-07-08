@@ -31,13 +31,14 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Giji Harem](https://myanimelist.net/anime/54968) | Acak (?) | Tidak | |
 [Gimai Seikatsu](https://myanimelist.net/anime/52481) | ? | Tidak | | 
 [Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made](https://myanimelist.net/anime/57892) | 942.6 (Bilinear) | Iya* | [Link](https://slow.pics/c/OE9nW0rY) | height=944, src_height=942.6, src_top=0.325. Sangat sulit :wkwk:
+[Kami no Tou: Ouji no Kikan](https://myanimelist.net/anime/52635) | 892.55 (Bilinear) | Iya | [Link](https://slow.pics/c/TyQH4ZM6) | /shrug
 [Kono Sekai wa Fukanzen Sugiru](https://myanimelist.net/anime/54835) | Acak (?) | Tidak | | Sumbernya lumayan bagus
 [Madougushi Dahliya wa Utsumukanai](https://myanimelist.net/anime/56449) | ~840, 844 | Tidak | | Terlalu blur, malas
 [Maougun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/PXvsFclw) | Butuh Bilinear border
 [Megami no Café Terrace Season 2](https://myanimelist.net/anime/55749) | 844 (Bilinear) | Iya | [Link](https://slow.pics/c/ZDiB99rt) | int
-[Mob kara Hajimaru Tansaku Eiyuutan](https://myanimelist.net/anime/57646) | 900 (Bilinar) | Iya (?) | [Link](https://slow.pics/c/TsPngEwh) | Butuh Bilinear border
+[Mob kara Hajimaru Tansaku Eiyuutan](https://myanimelist.net/anime/57646) | 900 (Bilinear) | Iya (?) | [Link](https://slow.pics/c/TsPngEwh) | Butuh Bilinear border
 [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864)| 1080p | | | :yes:
-[Na Nare Hana Nare](https://myanimelist.net/anime/57099) | 822 | Tidak | | Standar P.A. Works
+[Na Nare Hana Nare](https://myanimelist.net/anime/57099) | 821.88 (Bilinear) | Iya | [Link](https://slow.pics/c/4UfAgUgG) | Standar P.A. Works
 [Nige Jouzu no Wakagimi](https://myanimelist.net/anime/54724) | Acak (?) | Tidak | | Dari kualitasnya lumayan bagus
 [Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai](https://myanimelist.net/anime/57058) | ~899.65/899.8/900(Center Match(?)) (Lanczos(2) (?)) | Iya (?) | | Agak sulit mengetesnya.
 [Oshi no Ko Season 2](https://myanimelist.net/anime/55791) | 837 | Tidak | |
