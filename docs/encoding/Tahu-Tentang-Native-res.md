@@ -31,6 +31,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Giji Harem](https://myanimelist.net/anime/54968) | Acak (?) | Tidak | |
 [Gimai Seikatsu](https://myanimelist.net/anime/52481) | ? | Tidak | | 
 [Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made](https://myanimelist.net/anime/57892) | 942.6 (Bilinear) | Iya* | [Link](https://slow.pics/c/OE9nW0rY) | height=944, src_height=942.6, src_top=0.325. Sangat sulit :wkwk:
+[Isekai Shikkaku](https://myanimelist.net/anime/52367) | ? | Tidak | | |
 [Kami no Tou: Ouji no Kikan](https://myanimelist.net/anime/52635) | 892.55 (Bilinear) | Iya | [Link](https://slow.pics/c/TyQH4ZM6) | /shrug
 [Katsute Mahou Shoujo to Aku wa Tekitai shiteita.](https://myanimelist.net/anime/57217) | 720 (Bilinear) | Iya |[Link](https://slow.pics/c/qS9bNcMb) | int
 [Kono Sekai wa Fukanzen Sugiru](https://myanimelist.net/anime/54835) | Acak (?) | Tidak | | Sumbernya lumayan bagus
