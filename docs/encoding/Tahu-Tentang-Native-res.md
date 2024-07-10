@@ -35,6 +35,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Kami no Tou: Ouji no Kikan](https://myanimelist.net/anime/52635) | 892.55 (Bilinear) | Iya | [Link](https://slow.pics/c/TyQH4ZM6) | /shrug
 [Katsute Mahou Shoujo to Aku wa Tekitai shiteita.](https://myanimelist.net/anime/57217) | 720 (Bilinear) | Iya |[Link](https://slow.pics/c/qS9bNcMb) | int
 [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2](https://myanimelist.net/anime/49981) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/IVGDYIC8) | frac
+[Koi wa Futago de Warikirenai](https://myanimelist.net/anime/55996) | ? | Tidak | | 
 [Kono Sekai wa Fukanzen Sugiru](https://myanimelist.net/anime/54835) | Acak (?) | Tidak | | Sumbernya lumayan bagus
 [Madougushi Dahliya wa Utsumukanai](https://myanimelist.net/anime/56449) | ~840, 844 | Tidak | | Terlalu blur, malas
 [Maougun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/PXvsFclw) | Butuh Bilinear border
