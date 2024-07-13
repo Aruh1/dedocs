@@ -45,6 +45,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Mob kara Hajimaru Tansaku Eiyuutan](https://myanimelist.net/anime/57646) | 900 (Bilinear) | Iya (?) | [Link](https://slow.pics/c/TsPngEwh) | Butuh Bilinear border
 [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864)| 1080p | | | :yes:
 [Na Nare Hana Nare](https://myanimelist.net/anime/57099) | 821.88 (Bilinear) | Iya | [Link](https://slow.pics/c/4UfAgUgG) | Standar P.A. Works
+[Naze Boku no Sekai wo Daremo Oboeteinai no ka?](https://myanimelist.net/anime/56062) | ? | Tidak | | Hadeeh
 [Nige Jouzu no Wakagimi](https://myanimelist.net/anime/54724) | Acak (?) | Tidak | | Dari kualitasnya lumayan bagus
 [Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai](https://myanimelist.net/anime/57058) | ~899.65/899.8/900(Center Match(?)) (Lanczos(2) (?)) | Iya (?) | | Agak sulit mengetesnya.
 [Oshi no Ko Season 2](https://myanimelist.net/anime/55791) | 837 | Tidak | |
