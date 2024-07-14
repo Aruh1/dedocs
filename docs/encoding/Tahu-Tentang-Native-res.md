@@ -26,6 +26,7 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
 [2.5-jigen no Ririsa](https://myanimelist.net/anime/53802) | 900 | Tidak | | 
+[Atri: My Dear Moments](https://myanimelist.net/anime/53128) | ~872 | Tidak | | Malah nambah banyak halo
 [Bye Bye, Earth](https://myanimelist.net/anime/53626) | ~875.35 | Tidak | |
 [Dungeon no Naka no Hito](https://myanimelist.net/anime/56348) | ~900, 945 | Tidak | | |
 [Fairy Tail: 100-nen Quest](https://myanimelist.net/anime/49785) | ~900 | Tidak | | /shrug
