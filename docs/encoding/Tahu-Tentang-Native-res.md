@@ -40,6 +40,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Koi wa Futago de Warikirenai](https://myanimelist.net/anime/55996) | ? | Tidak | | 
 [Kono Sekai wa Fukanzen Sugiru](https://myanimelist.net/anime/54835) | Acak (?) | Tidak | | Sumbernya lumayan bagus
 [Madougushi Dahliya wa Utsumukanai](https://myanimelist.net/anime/56449) | ~840, 844 | Tidak | | Terlalu blur, malas
+[Make Heroine ga Oosugiru!](https://myanimelist.net/anime/57524) | ~900 | Tidak | | Lumayan bagus sourcenya
 [Maougun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/PXvsFclw) | Butuh Bilinear border
 [Mayonaka Punch](https://myanimelist.net/anime/57947) | 864 (Bilinear) | Iya | [Link](https://slow.pics/c/f0tlViBW) | `dict(width=1536, height=864, src_top = 0.4, src_height = 864, src_width=1536, src_left=-0.2)`
 [Megami no Café Terrace Season 2](https://myanimelist.net/anime/55749) | 844 (Bilinear) | Iya | [Link](https://slow.pics/c/ZDiB99rt) | int
