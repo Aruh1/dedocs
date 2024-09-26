@@ -21,6 +21,11 @@ Tabel ini berisi informasi berikut:
 
 Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mungkin tidak akurat atau ketinggalan zaman! Terimalah dengan bijaksana, dan lakukan uji tuntas. Verifikasi semuanya sendiri sebelum menerapkan descale pada encode Anda!
 
+### Fall 2024
+Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
+---  | --- | --- | ---
+[Hitoribocchi no Isekai Kouryaku](https://myanimelist.net/anime/57891)
+
 ### Summer 2024
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
