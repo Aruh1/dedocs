@@ -24,7 +24,7 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 ### Fall 2024
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
-[Hitoribocchi no Isekai Kouryaku](https://myanimelist.net/anime/57891)
+[Hitoribocchi no Isekai Kouryaku](https://myanimelist.net/anime/57891) | 881.65 | Tidak | | Gak yakin ....
 
 ### Summer 2024
 {.compact}
