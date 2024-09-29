@@ -26,7 +26,7 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
 [Hitoribocchi no Isekai Kouryaku](https://myanimelist.net/anime/57891) | ~882 | Tidak | | 
-[Uzumaki](https://myanimelist.net/anime/40333) | 843.75 | Iya | [Link](https://slow.pics/c/3XMIwNkr) | GREEEYYYY
+[Uzumaki](https://myanimelist.net/anime/40333) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/3XMIwNkr) | GREEEYYYY
 
 ### Summer 2024
 {.compact}
