@@ -26,6 +26,8 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
 [Hitoribocchi no Isekai Kouryaku](https://myanimelist.net/anime/57891) | ~882 | Tidak | | 
+[Nageki no Bourei wa Intai shitai](https://myanimelist.net/anime/58172) | ? | Tidak | | 
+[Tensei Kizoku, Kantei Skill de Nariagaru S2](https://myanimelist.net/anime/59131) | 955.75 | Iya | [Link](https://slow.pics/c/1cSgIsGP) | Sama seperti S1
 [Uzumaki](https://myanimelist.net/anime/40333) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/3XMIwNkr) | GREEEYYYY
 
 ### Summer 2024
