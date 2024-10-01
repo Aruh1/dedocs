@@ -27,7 +27,8 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 ---  | --- | --- | ---
 [Hitoribocchi no Isekai Kouryaku](https://myanimelist.net/anime/57891) | ~882 | Tidak | | 
 [Nageki no Bourei wa Intai shitai](https://myanimelist.net/anime/58172) | ? | Tidak | | 
-[Tensei Kizoku, Kantei Skill de Nariagaru S2](https://myanimelist.net/anime/59131) | 955.75 | Iya | [Link](https://slow.pics/c/1cSgIsGP) | Sama seperti S1
+[Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru](https://myanimelist.net/anime/58714) | 844 (AdobeBicubic) | Iya | [Link](https://slow.pics/c/BFSh9FJa) | int, menggunakan Bicubic(0, 0.75)
+[Tensei Kizoku, Kantei Skill de Nariagaru S2](https://myanimelist.net/anime/59131) | 955.75 (Bilinear) | Iya | [Link](https://slow.pics/c/1cSgIsGP) | Sama seperti S1
 [Uzumaki](https://myanimelist.net/anime/40333) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/3XMIwNkr) | GREEEYYYY
 
 ### Summer 2024
@@ -35,7 +36,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
 [2.5-jigen no Ririsa](https://myanimelist.net/anime/53802) | 900 | Tidak | | 
-[Atri: My Dear Moments](https://myanimelist.net/anime/53128) | ~872 | Tidak | | Malah nambah banyak halo
+[Atri: My Dear Moments](https://myanimelist.net/anime/53128) | ~872 | Tidak | | 
 [Bye Bye, Earth](https://myanimelist.net/anime/53626) | ~875.35 | Tidak | |
 [Dungeon no Naka no Hito](https://myanimelist.net/anime/56348) | ~900, 945 | Tidak | | |
 [Fairy Tail: 100-nen Quest](https://myanimelist.net/anime/49785) | ~900 | Tidak | | /shrug
