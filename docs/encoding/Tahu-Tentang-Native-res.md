@@ -25,10 +25,12 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
+[Amagami-san Chi no Enmusubi](https://myanimelist.net/anime/55071) | 846 (Bilinear) | Iya | [Link](https://slow.pics/c/SDax2ics) | Butuh Bilinear border
 [Goukon ni Ittara Onna ga Inakatta Hanashi](https://myanimelist.net/anime/56843) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/2TolRoL2) | frac
 [Hitoribocchi no Isekai Kouryaku](https://myanimelist.net/anime/57891) | ~882 | Tidak | | 
 [Maou-sama, Retry! R](https://myanimelist.net/anime/56400) | ? | Tidak | | /shrug
 [Nageki no Bourei wa Intai shitai](https://myanimelist.net/anime/58172) | ? | Tidak | | 
+[Rekishi ni Nokoru Akujo ni Naru zo](https://myanimelist.net/anime/56228) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/f76wo6D7) | Butuh Bilinear border
 [Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru](https://myanimelist.net/anime/58714) | 844 (AdobeBicubic) | Iya | [Link](https://slow.pics/c/BFSh9FJa) | int, menggunakan Bicubic(0, 0.75)
 [Tensei Kizoku, Kantei Skill de Nariagaru S2](https://myanimelist.net/anime/59131) | 955.75 (Bilinear) | Iya | [Link](https://slow.pics/c/1cSgIsGP) | Sama seperti S1
 [Uzumaki](https://myanimelist.net/anime/40333) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/3XMIwNkr) | GREEEYYYY
