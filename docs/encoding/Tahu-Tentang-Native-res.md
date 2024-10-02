@@ -25,6 +25,7 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
+[Acro Trip](https://myanimelist.net/anime/53723)| ? | Tidak | | 
 [Amagami-san Chi no Enmusubi](https://myanimelist.net/anime/55071) | 846 (Bilinear) | Iya | [Link](https://slow.pics/c/SDax2ics) | Butuh Bilinear border
 [Goukon ni Ittara Onna ga Inakatta Hanashi](https://myanimelist.net/anime/56843) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/2TolRoL2) | frac
 [Hitoribocchi no Isekai Kouryaku](https://myanimelist.net/anime/57891) | ~882 | Tidak | | 
