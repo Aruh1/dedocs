@@ -29,6 +29,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Amagami-san Chi no Enmusubi](https://myanimelist.net/anime/55071) | 846 (Bilinear) | Iya | [Link](https://slow.pics/c/SDax2ics) | Butuh Bilinear border
 [Goukon ni Ittara Onna ga Inakatta Hanashi](https://myanimelist.net/anime/56843) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/2TolRoL2) | frac
 [Hitoribocchi no Isekai Kouryaku](https://myanimelist.net/anime/57891) | ~882 | Tidak | | 
+[Kamierabi S2](https://myanimelist.net/anime/56967) | ? | Tidak | | 
 [Maou-sama, Retry! R](https://myanimelist.net/anime/56400) | ? | Tidak | | /shrug
 [Nageki no Bourei wa Intai shitai](https://myanimelist.net/anime/58172) | ? | Tidak | | 
 [Re:Zero kara Hajimeru Isekai Seikatsu S3](https://myanimelist.net/anime/54857) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/vuLtZ9Y4) | frac
