@@ -27,9 +27,11 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 ---  | --- | --- | ---
 [Acro Trip](https://myanimelist.net/anime/53723)| ? | Tidak | | 
 [Amagami-san Chi no Enmusubi](https://myanimelist.net/anime/55071) | 846 (Bilinear) | Iya | [Link](https://slow.pics/c/SDax2ics) | Butuh Bilinear border
+[Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen](https://myanimelist.net/anime/57066) | 900 (AdobeBicubic) | Iya | [Link](https://slow.pics/c/nSfE4d9K) | int, menggunakan Bicubic(0, 0.75)
 [Goukon ni Ittara Onna ga Inakatta Hanashi](https://myanimelist.net/anime/56843) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/2TolRoL2) | frac
 [Hitoribocchi no Isekai Kouryaku](https://myanimelist.net/anime/57891) | ~882 | Tidak | | 
 [Kamierabi S2](https://myanimelist.net/anime/56967) | ? | Tidak | | 
+[Kekkon suru tte, Hontou desu ka](https://myanimelist.net/anime/55887) | ~844 | Tidak | | 
 [Maou-sama, Retry! R](https://myanimelist.net/anime/56400) | ? | Tidak | | /shrug
 [Nageki no Bourei wa Intai shitai](https://myanimelist.net/anime/58172) | ? | Tidak | | 
 [Re:Zero kara Hajimeru Isekai Seikatsu S3](https://myanimelist.net/anime/54857) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/vuLtZ9Y4) | frac
