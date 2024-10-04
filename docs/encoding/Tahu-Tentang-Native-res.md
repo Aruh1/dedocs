@@ -35,6 +35,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Kinoko Inu](https://myanimelist.net/anime/58854) | 842.4 (Lanczos taps2) | Kayaknya | [Link](https://slow.pics/c/ez9TLY9b) | Sedikit miss dibagian lineart, mungkin kalian bisa tes sendiri (?)
 [Maou-sama, Retry! R](https://myanimelist.net/anime/56400) | ? | Tidak | | /shrug
 [Nageki no Bourei wa Intai shitai](https://myanimelist.net/anime/58172) | ? | Tidak | | 
+[NegaPosi Angler](https://myanimelist.net/anime/59425) | Mix 720, 810, dan Mappa res | Tidak | | Terlalu random
 [Re:Zero kara Hajimeru Isekai Seikatsu S3](https://myanimelist.net/anime/54857) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/vuLtZ9Y4) | frac
 [Rekishi ni Nokoru Akujo ni Naru zo](https://myanimelist.net/anime/56228) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/f76wo6D7) | Butuh Bilinear border
 [Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru](https://myanimelist.net/anime/58714) | 844 (AdobeBicubic) | Iya | [Link](https://slow.pics/c/BFSh9FJa) | int, menggunakan Bicubic(0, 0.75)
