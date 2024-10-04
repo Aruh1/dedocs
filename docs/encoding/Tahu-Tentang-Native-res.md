@@ -35,6 +35,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Kekkon suru tte, Hontou desu ka](https://myanimelist.net/anime/55887) | ~844 | Tidak | | 
 [Kinoko Inu](https://myanimelist.net/anime/58854) | 842.4 (Lanczos taps2) | Kayaknya | [Link](https://slow.pics/c/ez9TLY9b) | Sedikit miss dibagian lineart, mungkin kalian bisa tes sendiri (?)
 [Maou-sama, Retry! R](https://myanimelist.net/anime/56400) | ? | Tidak | | /shrug
+[Mecha-ude](https://myanimelist.net/anime/53033) | ? | Tidak | | random
 [Nageki no Bourei wa Intai shitai](https://myanimelist.net/anime/58172) | ? | Tidak | | 
 [NegaPosi Angler](https://myanimelist.net/anime/59425) | Mix 720, 810, dan Mappa res | Tidak | | Terlalu random
 [Re:Zero kara Hajimeru Isekai Seikatsu S3](https://myanimelist.net/anime/54857) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/vuLtZ9Y4) | frac
