@@ -32,6 +32,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Hitoribocchi no Isekai Kouryaku](https://myanimelist.net/anime/57891) | ~882 | Tidak | | 
 [Kamierabi S2](https://myanimelist.net/anime/56967) | ? | Tidak | | 
 [Kekkon suru tte, Hontou desu ka](https://myanimelist.net/anime/55887) | ~844 | Tidak | | 
+[Kinoko Inu](https://myanimelist.net/anime/58854) | 842.4 (Lanczos taps2) | Kayaknya | [Link](https://slow.pics/c/ez9TLY9b) | Sedikit miss dibagian lineart, mungkin kalian bisa tes sendiri (?)
 [Maou-sama, Retry! R](https://myanimelist.net/anime/56400) | ? | Tidak | | /shrug
 [Nageki no Bourei wa Intai shitai](https://myanimelist.net/anime/58172) | ? | Tidak | | 
 [Re:Zero kara Hajimeru Isekai Seikatsu S3](https://myanimelist.net/anime/54857) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/vuLtZ9Y4) | frac
