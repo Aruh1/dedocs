@@ -44,6 +44,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru](https://myanimelist.net/anime/58714) | 844 (AdobeBicubic) | Iya | [Link](https://slow.pics/c/BFSh9FJa) | int, menggunakan Bicubic(0, 0.75)
 [Shin Tennis no Oujisama: U-17 World Cup Semifinal](https://myanimelist.net/anime/55570) | ? | Tidak | |
 [Sayounara Ryuusei, Konnichiwa Jinsei](https://myanimelist.net/anime/58445) | 1548.44x871 (Bilinear) | Iya | [Link](https://slow.pics/c/zjsgvykC) | Dengan width 1548.44
+[Sword Art Online Alternative: Gun Gale Online II](https://myanimelist.net/anime/55994) | ~900 | Tidak | | A-1 standar
 [Tensei Kizoku, Kantei Skill de Nariagaru S2](https://myanimelist.net/anime/59131) | 955.75 (Bilinear) | Iya | [Link](https://slow.pics/c/1cSgIsGP) | Sama seperti S1
 [Trillion Game](https://myanimelist.net/anime/56662) | ~896 | Tidak | | 
 [Uzumaki](https://myanimelist.net/anime/40333) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/3XMIwNkr) | GREEEYYYY
