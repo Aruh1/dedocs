@@ -46,6 +46,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Sayounara Ryuusei, Konnichiwa Jinsei](https://myanimelist.net/anime/58445) | 1548.44x871 (Bilinear) | Iya | [Link](https://slow.pics/c/zjsgvykC) | Dengan width 1548.44
 [Sword Art Online Alternative: Gun Gale Online II](https://myanimelist.net/anime/55994) | ~900 | Tidak | | A-1 standar
 [Tensei Kizoku, Kantei Skill de Nariagaru S2](https://myanimelist.net/anime/59131) | 955.75 (Bilinear) | Iya | [Link](https://slow.pics/c/1cSgIsGP) | Sama seperti S1
+[The iDOLM@STER Shiny Colors S2](https://myanimelist.net/anime/58302) | ? | Tidak | | 
 [Trillion Game](https://myanimelist.net/anime/56662) | ~896 | Tidak | | 
 [Uzumaki](https://myanimelist.net/anime/40333) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/3XMIwNkr) | GREEEYYYY
 
