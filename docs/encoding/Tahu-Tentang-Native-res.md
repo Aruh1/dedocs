@@ -31,6 +31,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen](https://myanimelist.net/anime/57066) | 900 (AdobeBicubic) | Iya | [Link](https://slow.pics/c/nSfE4d9K) | int, menggunakan Bicubic(0, 0.75)
 [Goukon ni Ittara Onna ga Inakatta Hanashi](https://myanimelist.net/anime/56843) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/2TolRoL2) | frac
 [Hitoribocchi no Isekai Kouryaku](https://myanimelist.net/anime/57891) | ~882 | Tidak | | 
+[Kabushikigaisha Magi-Lumière](https://myanimelist.net/anime/57360) | ~900 | Tidak | | amzn shrug
 [Kamierabi S2](https://myanimelist.net/anime/56967) | ? | Tidak | | 
 [Kekkon suru tte, Hontou desu ka](https://myanimelist.net/anime/55887) | ~844 | Tidak | | 
 [Kinoko Inu](https://myanimelist.net/anime/58854) | 842.4 (Lanczos taps2) | Kayaknya | [Link](https://slow.pics/c/ez9TLY9b) | Sedikit miss dibagian lineart, mungkin kalian bisa tes sendiri (?)
