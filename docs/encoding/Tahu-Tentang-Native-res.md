@@ -41,6 +41,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Mecha-ude](https://myanimelist.net/anime/53033) | ? | Tidak | | random
 [Nageki no Bourei wa Intai shitai](https://myanimelist.net/anime/58172) | ? | Tidak | | 
 [NegaPosi Angler](https://myanimelist.net/anime/59425) | Mix 720, 810, dan Mappa res | Tidak | | Terlalu random
+[Puniru wa Kawaii Slime](https://myanimelist.net/anime/57517) | ~844 | TIdak | | 
 [Re:Zero kara Hajimeru Isekai Seikatsu S3](https://myanimelist.net/anime/54857) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/vuLtZ9Y4) | frac
 [Rekishi ni Nokoru Akujo ni Naru zo](https://myanimelist.net/anime/56228) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/f76wo6D7) | Butuh Bilinear border
 [Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru](https://myanimelist.net/anime/58714) | 844 (AdobeBicubic) | Iya | [Link](https://slow.pics/c/BFSh9FJa) | int, menggunakan Bicubic(0, 0.75)
@@ -50,6 +51,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Tensei Kizoku, Kantei Skill de Nariagaru S2](https://myanimelist.net/anime/59131) | 955.75 (Bilinear) | Iya | [Link](https://slow.pics/c/1cSgIsGP) | Sama seperti S1
 [The iDOLM@STER Shiny Colors S2](https://myanimelist.net/anime/58302) | ? | Tidak | | 
 [Trillion Game](https://myanimelist.net/anime/56662) | ~896 | Tidak | | 
+[Tsuma, Shougakusei ni Naru.](https://myanimelist.net/anime/54726) | ~864 | Tidak | |
 [Uzumaki](https://myanimelist.net/anime/40333) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/3XMIwNkr) | GREEEYYYY
 
 ### Summer 2024
