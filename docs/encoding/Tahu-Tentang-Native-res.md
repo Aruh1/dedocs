@@ -46,8 +46,9 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Re:Zero kara Hajimeru Isekai Seikatsu S3](https://myanimelist.net/anime/54857) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/vuLtZ9Y4) | frac
 [Rekishi ni Nokoru Akujo ni Naru zo](https://myanimelist.net/anime/56228) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/f76wo6D7) | Butuh Bilinear border
 [Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru](https://myanimelist.net/anime/58714) | 844 (AdobeBicubic) | Iya | [Link](https://slow.pics/c/BFSh9FJa) | int, menggunakan Bicubic(0, 0.75)
-[Shin Tennis no Oujisama: U-17 World Cup Semifinal](https://myanimelist.net/anime/55570) | ? | Tidak | |
 [Sayounara Ryuusei, Konnichiwa Jinsei](https://myanimelist.net/anime/58445) | 1548.44x871 (Bilinear) | Iya | [Link](https://slow.pics/c/zjsgvykC) | Dengan width 1548.44
+[Seirei Gensouki S2](https://myanimelist.net/anime/50306) | ~844 | Tidak | | 
+[Shin Tennis no Oujisama: U-17 World Cup Semifinal](https://myanimelist.net/anime/55570) | ? | Tidak | |
 [Sword Art Online Alternative: Gun Gale Online II](https://myanimelist.net/anime/55994) | ~900 | Tidak | | A-1 standar
 [Tensei Kizoku, Kantei Skill de Nariagaru S2](https://myanimelist.net/anime/59131) | 955.75 (Bilinear) | Iya | [Link](https://slow.pics/c/1cSgIsGP) | Sama seperti S1
 [The iDOLM@STER Shiny Colors S2](https://myanimelist.net/anime/58302) | ? | Tidak | | 
