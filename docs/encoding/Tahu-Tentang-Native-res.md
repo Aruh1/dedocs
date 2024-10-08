@@ -36,6 +36,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Kekkon suru tte, Hontou desu ka](https://myanimelist.net/anime/55887) | ~844 | Tidak | | 
 [Kimi wa Meido-sama.](https://myanimelist.net/anime/57611) | 844 (AdobeBicubic) | Iya | [Link](https://slow.pics/c/olri7GrP) | 1500, dengan menggunakan Bicubic(0, 0.75)
 [Kinoko Inu](https://myanimelist.net/anime/58854) | 842.4 (Lanczos taps2) | Kayaknya | [Link](https://slow.pics/c/ez9TLY9b) | Sedikit miss dibagian lineart, mungkin kalian bisa tes sendiri (?)
+[Love Live! Superstar!! S3](https://myanimelist.net/anime/53287) | ~831 | Tidak | | Bushiroar
 [Mahoutsukai ni Narenakatta Onnanoko no Hanashi](https://myanimelist.net/anime/58173) | ~900 | Tidak* | | Mungkin kalian bisa tes sendiri (?)
 [Maou-sama, Retry! R](https://myanimelist.net/anime/56400) | ? | Tidak | | /shrug
 [Mecha-ude](https://myanimelist.net/anime/53033) | ? | Tidak | | random
