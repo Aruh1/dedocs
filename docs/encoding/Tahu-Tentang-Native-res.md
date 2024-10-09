@@ -26,7 +26,7 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
 [Acro Trip](https://myanimelist.net/anime/53723)| ? | Tidak | | 
-[Amagami-san Chi no Enmusubi](https://myanimelist.net/anime/55071) | 846 (Bilinear) | Iya | [Link](https://slow.pics/c/SDax2ics) | Butuh Bilinear border
+[Amagami-san Chi no Enmusubi](https://myanimelist.net/anime/55071) | 846 (Bilinear) | Iya | [Link](https://slow.pics/c/SDax2ics) | Butuh menghilangkan Bilinear border
 [Dandadan](https://myanimelist.net/anime/57334) | ~882 | Tidak | | Sourcenya bagus ....
 [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen](https://myanimelist.net/anime/57066) | 900 (AdobeBicubic) | Iya | [Link](https://slow.pics/c/nSfE4d9K) | int, menggunakan Bicubic(0, 0.75)
 [Goukon ni Ittara Onna ga Inakatta Hanashi](https://myanimelist.net/anime/56843) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/2TolRoL2) | frac
@@ -45,9 +45,9 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [NegaPosi Angler](https://myanimelist.net/anime/59425) | Mix 720, 810, dan Mappa res | Tidak | | Terlalu random
 [Puniru wa Kawaii Slime](https://myanimelist.net/anime/57517) | ~844 | TIdak | | 
 [Re:Zero kara Hajimeru Isekai Seikatsu S3](https://myanimelist.net/anime/54857) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/vuLtZ9Y4) | frac
-[Rekishi ni Nokoru Akujo ni Naru zo](https://myanimelist.net/anime/56228) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/f76wo6D7) | Butuh Bilinear border
+[Rekishi ni Nokoru Akujo ni Naru zo](https://myanimelist.net/anime/56228) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/f76wo6D7) | Butuh menghilangkan Bilinear border
 [Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru](https://myanimelist.net/anime/58714) | 844 (AdobeBicubic) | Iya | [Link](https://slow.pics/c/BFSh9FJa) | int, menggunakan Bicubic(0, 0.75)
-[Sayounara Ryuusei, Konnichiwa Jinsei](https://myanimelist.net/anime/58445) | 1548.44x871 (Bilinear) | Iya | [Link](https://slow.pics/c/zjsgvykC) | Dengan width 1548.44
+[Sayounara Ryuusei, Konnichiwa Jinsei](https://myanimelist.net/anime/58445) | 871 (Bilinear) | Iya | [Link](https://slow.pics/c/zjsgvykC) | Dengan width 1548.44
 [Seirei Gensouki S2](https://myanimelist.net/anime/50306) | ~844 | Tidak | | 
 [Shin Tennis no Oujisama: U-17 World Cup Semifinal](https://myanimelist.net/anime/55570) | ? | Tidak | |
 [Sword Art Online Alternative: Gun Gale Online II](https://myanimelist.net/anime/55994) | ~900 | Tidak | | A-1 standar
@@ -78,10 +78,10 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Kono Sekai wa Fukanzen Sugiru](https://myanimelist.net/anime/54835) | Acak (?) | Tidak | | Sumbernya lumayan bagus
 [Madougushi Dahliya wa Utsumukanai](https://myanimelist.net/anime/56449) | ~840, 844 | Tidak | | Terlalu blur, malas
 [Make Heroine ga Oosugiru!](https://myanimelist.net/anime/57524) | ~900 | Tidak | | Lumayan bagus sourcenya
-[Maougun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/PXvsFclw) | Butuh Bilinear border
+[Maougun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/PXvsFclw) | Butuh menghilangkan Bilinear border
 [Mayonaka Punch](https://myanimelist.net/anime/57947) | 864 (Bilinear) | Iya | [Link](https://slow.pics/c/f0tlViBW) | `dict(width=1536, height=864, src_top = 0.4, src_height = 864, src_width=1536, src_left=-0.2)`
 [Megami no Café Terrace Season 2](https://myanimelist.net/anime/55749) | 844 (Bilinear) | Iya | [Link](https://slow.pics/c/ZDiB99rt) | int
-[Mob kara Hajimaru Tansaku Eiyuutan](https://myanimelist.net/anime/57646) | 900 (Bilinear) | Iya (?) | [Link](https://slow.pics/c/TsPngEwh) | Butuh Bilinear border
+[Mob kara Hajimaru Tansaku Eiyuutan](https://myanimelist.net/anime/57646) | 900 (Bilinear) | Iya (?) | [Link](https://slow.pics/c/TsPngEwh) | Butuh menghilangkan Bilinear border
 [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864)| 1080p | | | :yes:
 [Na Nare Hana Nare](https://myanimelist.net/anime/57099) | 821.88 (Bilinear) | Iya | [Link](https://slow.pics/c/4UfAgUgG) | Standar P.A. Works
 [Naze Boku no Sekai wo Daremo Oboeteinai no ka?](https://myanimelist.net/anime/56062) | ? | Tidak | | Hadeeh
