@@ -56,6 +56,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Trillion Game](https://myanimelist.net/anime/56662) | ~896 | Tidak | | 
 [Tsuma, Shougakusei ni Naru.](https://myanimelist.net/anime/54726) | ~864 | Tidak | |
 [Uzumaki](https://myanimelist.net/anime/40333) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/3XMIwNkr) | GREEEYYYY
+[Youkai Gakkou no Sensei Hajimemashita!](https://myanimelist.net/anime/57533) | ? | Tidak | | Guds
 
 ### Summer 2024
 {.compact}
