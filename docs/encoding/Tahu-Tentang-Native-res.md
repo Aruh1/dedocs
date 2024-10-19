@@ -27,6 +27,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 ---  | --- | --- | ---
 [Acro Trip](https://myanimelist.net/anime/53723)| ? | Tidak | | 
 [Amagami-san Chi no Enmusubi](https://myanimelist.net/anime/55071) | 846 (Bilinear) | Iya | [Link](https://slow.pics/c/SDax2ics) | Butuh menghilangkan Bilinear border
+[Ao no Miburo](https://myanimelist.net/anime/56647) | 900 (Bilinear) | Iya | [Link](https://slow.pics/c/JTLvV8XO) | Butuh menghilangkan Bilinear border
 [Arifureta Shokugyou de Sekai Saikyou S3](https://myanimelist.net/anime/52995) | ~810 | Tidak | | 
 [Dandadan](https://myanimelist.net/anime/57334) | ~882 | Tidak | | Sourcenya bagus ....
 [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen](https://myanimelist.net/anime/57066) | 900 (AdobeBicubic) | Iya | [Link](https://slow.pics/c/nSfE4d9K) | int, menggunakan Bicubic(0, 0.75)
