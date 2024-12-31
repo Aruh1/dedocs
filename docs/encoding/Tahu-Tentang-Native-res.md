@@ -21,6 +21,15 @@ Tabel ini berisi informasi berikut:
 
 Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mungkin tidak akurat atau ketinggalan zaman! Terimalah dengan bijaksana, dan lakukan uji tuntas. Verifikasi semuanya sendiri sebelum menerapkan descale pada encode Anda!
 
+### Winter 2025
+{.compact}
+Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
+---  | --- | --- | ---
+[Fate/strange Fake](https://myanimelist.net/anime/55830) | 900p | Tidak | | A-1 standar
+[Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite](https://myanimelist.net/anime/59002) | ~955.75 (Bicubic Sharp) | Iya | [Link](https://slow.pics/c/m65vu20e) | Be careful, karena ada beberapa reso native 1080p
+[S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu](https://myanimelist.net/anime/58473) | ~844 | Tidak | | 
+
+
 ### Fall 2024
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
