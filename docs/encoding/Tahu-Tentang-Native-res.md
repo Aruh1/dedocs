@@ -26,10 +26,12 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
 [Ameku Takao no Suiri Karte](https://myanimelist.net/anime/58600) | ? | Tidak | | Full turu bos
+[BanG Dream! Ave Mujica](https://myanimelist.net/anime/56653) | 806p (Bilinear?) | Iya | | Antara bisa Bicubic(b=0, c=0.4) atau Bilinear, pick your poison.
 [Grisaia Phantom Trigger](https://myanimelist.net/anime/51119) | 1080p(?) | Tidak | | Pretty gud, but be careful
 [Fate/strange Fake](https://myanimelist.net/anime/55830) | 900p | Tidak | | A-1 standar
 [Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite](https://myanimelist.net/anime/59002) | ~955.75 (BicubicSharp) | Iya | [Link](https://slow.pics/c/m65vu20e) | frac, be careful, karena ada beberapa reso native 1080p
 [Izure Saikyou no Renkinjutsushi?](https://myanimelist.net/anime/58822) | ~871 | Tidak | | 
+[Momentary Lily](https://myanimelist.net/anime/58739) | ?? | Tidak | | no comment
 [S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu](https://myanimelist.net/anime/58473) | ~844 | Tidak | | 
 [Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi](https://myanimelist.net/anime/59349) | 881.65 (Bilinear) | Iya | [Link](https://slow.pics/c/aH7DZeOf) | frac
 
