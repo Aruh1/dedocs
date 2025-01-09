@@ -46,7 +46,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Momentary Lily](https://myanimelist.net/anime/58739) | ?? | Tidak | | no comment
 [S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu](https://myanimelist.net/anime/58473) | ~844 | Tidak | | 
 [Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi](https://myanimelist.net/anime/59349) | 881.65 (Bilinear) | Iya | [Link](https://slow.pics/c/aH7DZeOf) | frac
-[Unnamed Memory S2](https://myanimelist.net/anime/59142) 1080 (??) | Tidak | | But be careful
+[Unnamed Memory S2](https://myanimelist.net/anime/59142) | 1080? | Tidak | | But be careful
 [Watashi no Shiawase na Kekkon S2](https://myanimelist.net/anime/56701) | 843.75 (??) | Iya* | | Starved parah, jika kamu bisa menghandle wobble, everything is simple.
 
 
