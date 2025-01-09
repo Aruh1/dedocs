@@ -29,12 +29,12 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Around 40 Otoko no Isekai Tsuuhan](https://myanimelist.net/anime/59561) | ? | Tidak | | 
 [BanG Dream! Ave Mujica](https://myanimelist.net/anime/56653) | 806p (Bilinear?) | Iya | [Link](https://slow.pics/c/WN3Lv3yz?image-fit=none) | Antara bisa Bicubic(b=0, c=0.4) atau Bilinear, pick your poison.
 [Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.](https://myanimelist.net/anime/59135) | ? | Tidak | | random
-[Douse, Koishite Shimaunda.](https://myanimelist.net/anime/58259) | 873.75 (Bilinear) | Iya | [Link](https://slow.pics/c/mSRtx0bm?image-fit=none) | frac
+[Douse, Koishite Shimaunda.](https://myanimelist.net/anime/58259) | 843.75 (Bilinear) | Iya | [Link](https://slow.pics/c/mSRtx0bm?image-fit=none) | frac
 [Dr. Stone: Science Future (S4)](https://myanimelist.net/anime/57592) | 810p (Bilinear) | Iya | [Link](https://slow.pics/c/PAEpZsdP?image-fit=none) | Beberapa scene tidak dapat descale
 [Fate/strange Fake](https://myanimelist.net/anime/55830) | ~900p | Tidak | | A-1 standar
 [Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta](https://myanimelist.net/anime/59144) | 900p (Bilinear) | Iya | [Link](https://slow.pics/c/zDM7fMUt?image-fit=none) | int
 [Grisaia Phantom Trigger](https://myanimelist.net/anime/51119) | 1080p(?) | Tidak | | Pretty gud, but be careful
-[Hana wa Saku, Shura no Gotoku](https://myanimelist.net/anime/59055) | 873.75 | Iya* | [Link](https://slow.pics/c/tticb0RJ?image-fit=none) | Shift setiap scene dan setiap frame
+[Hana wa Saku, Shura no Gotoku](https://myanimelist.net/anime/59055) | 843.75 | Iya* | [Link](https://slow.pics/c/tticb0RJ?image-fit=none) | Shift setiap scene dan setiap frame
 [Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite](https://myanimelist.net/anime/59002) | ~955.75 (BicubicSharp) | Iya | [Link](https://slow.pics/c/m65vu20e) | frac, be careful, karena ada beberapa reso native 1080p
 [Honey Lemon Soda](https://myanimelist.net/anime/58271) | ~900p | Tidak | | looks good
 [Izure Saikyou no Renkinjutsushi?](https://myanimelist.net/anime/58822) | ~871 | Tidak | |
