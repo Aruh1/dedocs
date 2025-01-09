@@ -26,15 +26,28 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
 [Ameku Takao no Suiri Karte](https://myanimelist.net/anime/58600) | ? | Tidak | | Full turu bos
+[Around 40 Otoko no Isekai Tsuuhan](https://myanimelist.net/anime/59561) | ? | Tidak | | 
 [BanG Dream! Ave Mujica](https://myanimelist.net/anime/56653) | 806p (Bilinear?) | Iya | [Link](https://slow.pics/c/WN3Lv3yz?image-fit=none) | Antara bisa Bicubic(b=0, c=0.4) atau Bilinear, pick your poison.
 [Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.](https://myanimelist.net/anime/59135) | ? | Tidak | | random
+[Douse, Koishite Shimaunda.](https://myanimelist.net/anime/58259) | 873.75 (Bilinear) | Iya | [Link](https://slow.pics/c/mSRtx0bm?image-fit=none) | frac
+[Dr. Stone: Science Future (S4)](https://myanimelist.net/anime/57592) | 810p (Bilinear) | Iya | [Link](https://slow.pics/c/PAEpZsdP?image-fit=none) | Beberapa scene tidak dapat descale
+[Fate/strange Fake](https://myanimelist.net/anime/55830) | ~900p | Tidak | | A-1 standar
+[Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta](https://myanimelist.net/anime/59144) | 900p (Bilinear) | Iya | [Link](https://slow.pics/c/zDM7fMUt?image-fit=none) | int
 [Grisaia Phantom Trigger](https://myanimelist.net/anime/51119) | 1080p(?) | Tidak | | Pretty gud, but be careful
-[Fate/strange Fake](https://myanimelist.net/anime/55830) | 900p | Tidak | | A-1 standar
+[Hana wa Saku, Shura no Gotoku](https://myanimelist.net/anime/59055) | 873.75 | Iya* | [Link](https://slow.pics/c/tticb0RJ?image-fit=none) | Shift setiap scene dan setiap frame
 [Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite](https://myanimelist.net/anime/59002) | ~955.75 (BicubicSharp) | Iya | [Link](https://slow.pics/c/m65vu20e) | frac, be careful, karena ada beberapa reso native 1080p
-[Izure Saikyou no Renkinjutsushi?](https://myanimelist.net/anime/58822) | ~871 | Tidak | | 
+[Honey Lemon Soda](https://myanimelist.net/anime/58271) | ~900p | Tidak | | looks good
+[Izure Saikyou no Renkinjutsushi?](https://myanimelist.net/anime/58822) | ~871 | Tidak | |
+[Kisaki Kyouiku kara Nigetai Watashi](https://myanimelist.net/anime/57050) | 947.4 (Bilinear) | Iya | [Link](https://slow.pics/c/KLVSNRxU?image-fit=none) | frac
+[Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai](https://slow.pics/c/gJS8vMBz?image-fit=none) | 870p (Bilinear) | Iya | [Link](https://slow.pics/c/gJS8vMBz?image-fit=none) | Butuh menghilangkan Bilinear border
+[Magic Maker: Isekai Mahou no Tsukurikata](https://myanimelist.net/anime/59265) | ~915p | Tidak | | 
+[Mahoutsukai no Yakusoku](https://myanimelist.net/anime/57152) | 864p (Bilinear) | Iya | [Link](https://slow.pics/c/d5q1DQxx?image-fit=none) | int
+[Medalist](https://myanimelist.net/anime/55318) | 1080p? | Tidak | | Pretty gud, but be careful
 [Momentary Lily](https://myanimelist.net/anime/58739) | ?? | Tidak | | no comment
 [S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu](https://myanimelist.net/anime/58473) | ~844 | Tidak | | 
 [Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi](https://myanimelist.net/anime/59349) | 881.65 (Bilinear) | Iya | [Link](https://slow.pics/c/aH7DZeOf) | frac
+[Unnamed Memory S2](https://myanimelist.net/anime/59142) 1080 (??) | Tidak | | But be careful
+[Watashi no Shiawase na Kekkon S2](https://myanimelist.net/anime/56701) | 843.75 (??) | Iya* | | Starved parah, jika kamu bisa menghandle wobble, everything is simple.
 
 
 ### Fall 2024
