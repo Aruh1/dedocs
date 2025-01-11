@@ -34,18 +34,22 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Fate/strange Fake](https://myanimelist.net/anime/55830) | ~900p | Tidak | | A-1 standar
 [Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta](https://myanimelist.net/anime/59144) | 900p (Bilinear) | Iya | [Link](https://slow.pics/c/zDM7fMUt?image-fit=none) | int
 [Grisaia Phantom Trigger](https://myanimelist.net/anime/51119) | 1080p(?) | Tidak | | Pretty gud, but be careful
+[Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu](https://myanimelist.net/anime/55997) | ? | Tidak | | 
 [Hana wa Saku, Shura no Gotoku](https://myanimelist.net/anime/59055) | 843.75 | Iya* | [Link](https://slow.pics/c/tticb0RJ?image-fit=none) | Shift setiap scene dan setiap frame
 [Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite](https://myanimelist.net/anime/59002) | ~955.75 (BicubicSharp) | Iya | [Link](https://slow.pics/c/m65vu20e) | frac, be careful, karena ada beberapa reso native 1080p
 [Honey Lemon Soda](https://myanimelist.net/anime/58271) | ~900p | Tidak | | looks good
 [Izure Saikyou no Renkinjutsushi?](https://myanimelist.net/anime/58822) | ~871 | Tidak | |
 [Kisaki Kyouiku kara Nigetai Watashi](https://myanimelist.net/anime/57050) | 947.4 (Bilinear) | Iya | [Link](https://slow.pics/c/KLVSNRxU?image-fit=none) | frac
 [Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai](https://slow.pics/c/gJS8vMBz?image-fit=none) | 870p (Bilinear) | Iya | [Link](https://slow.pics/c/gJS8vMBz?image-fit=none) | Butuh menghilangkan Bilinear border
+[Kusuriya no Hitorigoto](https://myanimelist.net/anime/58514) | 955.75 (Bicubic(0,0.5)) | Iya* | [Link](https://slow.pics/c/3fBEvbrs?image-fit=none) | fractional tiap frame berubah, dan menggunakan Catrom atau Bicubic(b=0, c=0.5)
 [Magic Maker: Isekai Mahou no Tsukurikata](https://myanimelist.net/anime/59265) | ~915p | Tidak | | 
 [Mahoutsukai no Yakusoku](https://myanimelist.net/anime/57152) | 864p (Bilinear) | Iya | [Link](https://slow.pics/c/d5q1DQxx?image-fit=none) | int
 [Medalist](https://myanimelist.net/anime/55318) | 1080p? | Tidak | | Pretty gud, but be careful
 [Momentary Lily](https://myanimelist.net/anime/58739) | ?? | Tidak | | no comment
+[Nihon e Youkoso Elf-san.](https://myanimelist.net/anime/57648) | ~844 | Tidak | | Sourcenya terlalu blur
 [S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu](https://myanimelist.net/anime/58473) | ~844 | Tidak | | 
 [Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi](https://myanimelist.net/anime/59349) | 881.65 (Bilinear) | Iya | [Link](https://slow.pics/c/aH7DZeOf) | frac
+[Übel Blatt](https://myanimelist.net/anime/58216) | ~968 | Tidak | | 
 [Unnamed Memory S2](https://myanimelist.net/anime/59142) | 1080? | Tidak | | But be careful
 [Watashi no Shiawase na Kekkon S2](https://myanimelist.net/anime/56701) | 843.75 (??) | Iya* | | Starved parah, jika kamu bisa menghandle wobble, everything is simple.
 
