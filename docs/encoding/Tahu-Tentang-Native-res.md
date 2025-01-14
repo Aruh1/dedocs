@@ -39,6 +39,8 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite](https://myanimelist.net/anime/59002) | ~955.75 (BicubicSharp) | Iya | [Link](https://slow.pics/c/m65vu20e) | frac, be careful, karena ada beberapa reso native 1080p
 [Honey Lemon Soda](https://myanimelist.net/anime/58271) | ~900p | Tidak | | looks good
 [Izure Saikyou no Renkinjutsushi?](https://myanimelist.net/anime/58822) | ~871 | Tidak | |
+[Jibaku Shounen Hanako-kun 2](https://myanimelist.net/anime/53924) | 918 (Bilinear) | Iya | [Link](https://slow.pics/c/YSLcA7Xr?image-fit=none) | int
+[Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo](https://myanimelist.net/anime/57616) | ~878 | Tidak | | Padahal Grisaia native 1080p
 [Kisaki Kyouiku kara Nigetai Watashi](https://myanimelist.net/anime/57050) | 947.4 (Bilinear) | Iya | [Link](https://slow.pics/c/KLVSNRxU?image-fit=none) | frac
 [Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai](https://slow.pics/c/gJS8vMBz?image-fit=none) | 870p (Bilinear) | Iya | [Link](https://slow.pics/c/gJS8vMBz?image-fit=none) | Butuh menghilangkan Bilinear border
 [Kusuriya no Hitorigoto](https://myanimelist.net/anime/58514) | 955.75 (Bicubic(0,0.5)) | Iya* | [Link](https://slow.pics/c/3fBEvbrs?image-fit=none) | fractional tiap frame berubah, dan menggunakan Catrom atau Bicubic(b=0, c=0.5)
