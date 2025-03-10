@@ -21,6 +21,15 @@ Tabel ini berisi informasi berikut:
 
 Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mungkin tidak akurat atau ketinggalan zaman! Terimalah dengan bijaksana, dan lakukan uji tuntas. Verifikasi semuanya sendiri sebelum menerapkan descale pada encode Anda!
 
+### Spring 2025
+{.compact}
+Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
+---  | --- | --- | ---
+[Aru Majo ga Shinu Made](https://myanimelist.net/anime/59169) | ~810 | Tidak | | ([screening watermark](https://nyaa.si/view/1942749)) Tunggu yang lebih bagus
+[Summer Pocket](https://myanimelist.net/anime/50694) | 720 (Bilinear) | Iya | [Link](https://slow.pics/c/tATaYLfx?image-fit=none) | (PV ProRes) Anjay
+[Uchuujin Muumuu](https://myanimelist.net/anime/60401) | ~954 | Tidak | | (PV ProRes) Full turu
+[Witch Watch](https://myanimelist.net/anime/59597) | ~878 | Tidak | | (PV ProRes) Looks good
+
 ### Winter 2025
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
@@ -42,7 +51,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Jibaku Shounen Hanako-kun 2](https://myanimelist.net/anime/53924) | 918 (Bilinear) | Iya | [Link](https://slow.pics/c/YSLcA7Xr?image-fit=none) | int
 [Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo](https://myanimelist.net/anime/57616) | ~878 | Tidak | | Padahal Grisaia native 1080p
 [Kisaki Kyouiku kara Nigetai Watashi](https://myanimelist.net/anime/57050) | 947.4 (Bilinear) | Iya | [Link](https://slow.pics/c/KLVSNRxU?image-fit=none) | frac
-[Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai](https://slow.pics/c/gJS8vMBz?image-fit=none) | 870p (Bilinear) | Iya | [Link](https://slow.pics/c/gJS8vMBz?image-fit=none) | Butuh menghilangkan Bilinear border
+[Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai](https://myanimelist.net/anime/58853) | 870p (Bilinear) | Iya | [Link](https://slow.pics/c/gJS8vMBz?image-fit=none) | Butuh menghilangkan Bilinear border
 [Kusuriya no Hitorigoto](https://myanimelist.net/anime/58514) | 955.75 (Bicubic(0,0.5)) | Iya* | [Link](https://slow.pics/c/3fBEvbrs?image-fit=none) | fractional tiap frame berubah, dan menggunakan Catrom atau Bicubic(b=0, c=0.5)
 [Magic Maker: Isekai Mahou no Tsukurikata](https://myanimelist.net/anime/59265) | ~915p | Tidak | | 
 [Mahoutsukai no Yakusoku](https://myanimelist.net/anime/57152) | 864p (Bilinear) | Iya | [Link](https://slow.pics/c/d5q1DQxx?image-fit=none) | int
