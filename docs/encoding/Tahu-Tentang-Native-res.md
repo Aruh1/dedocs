@@ -26,6 +26,7 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
 [Aru Majo ga Shinu Made](https://myanimelist.net/anime/59169) | ~810 | Tidak | | ([screening watermark](https://nyaa.si/view/1942749)) Tunggu yang lebih bagus
+[SK∞ OVA: Extra Part](https://myanimelist.net/anime/49363) | 720p (Bilinear) | Iya | [Link](https://slow.pics/c/D218hj91?image-fit=none) | Pretty gud
 [Summer Pocket](https://myanimelist.net/anime/50694) | 720p (Bilinear) | Iya | [Link](https://slow.pics/c/HEVFtxNK?image-fit=none) | (PV ProRes) Anjay, butuh menghilangkan Bilinear border
 [Uchuujin Muumuu](https://myanimelist.net/anime/60401) | ~954 | Tidak | | (PV ProRes) Full turu
 [Witch Watch](https://myanimelist.net/anime/59597) | ~878 | Tidak | | (PV ProRes) Looks good
