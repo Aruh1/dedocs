@@ -1,6 +1,6 @@
 ---
-title: "Perhitungan Lebar Video dengan Aspek Rasio 16:9"
-description: "Cara mudah menghitung lebar video berdasarkan tinggi dengan aspek rasio 16:9 menggunakan langkah-langkah sederhana."
+title: "Perhitungan Aspek Rasio 16:9"
+description: "Cara mudah menghitung lebar dan tinggi dengan aspek rasio 16:9 menggunakan langkah-langkah sederhana."
 ---
 
 ## **Konsep Dasar**
@@ -76,7 +76,7 @@ Mari kita coba menghitung beberapa resolusi umum:
    $$
    W = \frac{13936}{9} = 1548 \frac{4}{9}
    $$
-   
+
    **Jadi, lebarnya sekitar 1548.44 piksel (dibulatkan ke 1548 piksel).**
 
 ---
