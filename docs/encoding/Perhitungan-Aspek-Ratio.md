@@ -28,7 +28,7 @@ Jika kita mengetahui salah satu dimensi (lebar atau tinggi), kita dapat menghitu
 
 ---
 
-## **Perhitungan Lebar Video dengan Aspek Rasio 16:9**
+## **Perhitungan dengan Aspek Rasio 16:9**
 
 ### **Diketahui**
 - **Aspek rasio**: $\frac{16}{9}$  
@@ -82,7 +82,7 @@ Mari kita coba menghitung beberapa resolusi umum:
 ---
 
 ## **Kesimpulan**
-Dengan menggunakan rumus di atas, kita dapat menghitung lebar video berdasarkan tinggi dengan aspek rasio 16:9. Ini sangat berguna dalam mengatur resolusi video agar tetap proporsional dan tidak terdistorsi.
+Dengan menggunakan rumus sederhana di atas, kita dapat dengan mudah menghitung lebar dan tinggi video dengan aspek rasio 16:9. Ini sangat berguna dalam berbagai aplikasi, termasuk pengeditan video, desain grafis, dan presentasi.
 
 ## **Referensi**
 - [Aspek Rasio](https://id.wikipedia.org/wiki/Aspek_rasio)
