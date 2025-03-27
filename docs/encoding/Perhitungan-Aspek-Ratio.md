@@ -85,6 +85,6 @@ Mari kita coba menghitung beberapa resolusi umum:
 Dengan menggunakan rumus sederhana di atas, kita dapat dengan mudah menghitung lebar dan tinggi video dengan aspek rasio 16:9. Ini sangat berguna dalam berbagai aplikasi, termasuk pengeditan video, desain grafis, dan presentasi.
 
 ## **Referensi**
-- [Aspek Rasio](https://id.wikipedia.org/wiki/Aspek_rasio)
-- [Rumus Matematika](https://id.wikipedia.org/wiki/Rumus_matematika)
+- [Aspect ratio](https://en.wikipedia.org/wiki/Aspect_ratio)
+- [Rumus Matematika](https://id.wikipedia.org/wiki/Rumus)
 
