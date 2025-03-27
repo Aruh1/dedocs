@@ -49,10 +49,10 @@ Mari kita coba menghitung beberapa resolusi umum:
 
    **Jadi, resolusi videonya adalah 1920 × 1080 piksel.**
 
-2. **Jika tinggi video 720 piksel, berapa lebarnya?**
-   
+2. **Jika lebar video 1280 piksel, berapa panjangnya?**
+
    $$
-   W = \frac{16}{9} \times 720 = \frac{16 \times 720}{9} = \frac{11520}{9} = 1280
+   H = \frac{9}{16} \times 1280 = \frac{9 \times 1280}{16} = \frac{11520}{16} = 720
    $$
 
    **Jadi, resolusi videonya adalah 1280 × 720 piksel.**
