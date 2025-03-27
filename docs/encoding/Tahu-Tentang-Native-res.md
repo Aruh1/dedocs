@@ -27,6 +27,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 ---  | --- | --- | ---
 [Aru Majo ga Shinu Made](https://myanimelist.net/anime/59169) | ~810 | Tidak | | ([screening watermark](https://nyaa.si/view/1942749)) Tunggu yang lebih bagus
 [Ninja to Koroshiya no Futarigurashi](https://myanimelist.net/anime/58725) | 1080p? | Tidak | | (PV ProRes) Mantaf Shaft
+[Ore wa Seikan Kokka no Akutoku Ryoushu!](https://myanimelist.net/anime/60154) | 871p (Bilinear) | Iya | [Link](https://slow.pics/c/u2qJMrBm?image-fit=none) | 1548.4x871 frac
 [SK∞ OVA: Extra Part](https://myanimelist.net/anime/49363) | 720p (Bilinear) | Iya | [Link](https://slow.pics/c/D218hj91?image-fit=none) | Pretty gud
 [Summer Pocket](https://myanimelist.net/anime/50694) | 720p (Bilinear) | Iya | [Link](https://slow.pics/c/HEVFtxNK?image-fit=none) | (PV ProRes) Anjay, butuh menghilangkan Bilinear border
 [Teogonia](https://myanimelist.net/anime/58614) | ? | Tidak | | (PV ProRes) turu
@@ -63,9 +64,9 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Nihon e Youkoso Elf-san.](https://myanimelist.net/anime/57648) | ~844 | Tidak | | Sourcenya terlalu blur
 [S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu](https://myanimelist.net/anime/58473) | ~844 | Tidak | | 
 [Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi](https://myanimelist.net/anime/59349) | 881.65 (Bilinear) | Iya | [Link](https://slow.pics/c/aH7DZeOf) | frac
-[Übel Blatt](https://myanimelist.net/anime/58216) | ~968 | Tidak | | 
 [Unnamed Memory S2](https://myanimelist.net/anime/59142) | 1080? | Tidak | | But be careful
 [Watashi no Shiawase na Kekkon S2](https://myanimelist.net/anime/56701) | 843.75 (??) | Iya* | | Starved parah, jika kamu bisa menghandle wobble, everything is simple.
+[Übel Blatt](https://myanimelist.net/anime/58216) | ~968 | Tidak | | 
 
 
 ### Fall 2024
@@ -140,9 +141,9 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Senpai wa Otokonoko](https://myanimelist.net/anime/54855) | ~837.2 | Tidak | | 
 [Shikanoko Nokonoko Koshitantan](https://myanimelist.net/anime/58426) | 1080 | | | Hanya sumber CR yang bagus, great job WIT Studio
 [Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.](https://myanimelist.net/anime/54913) | 812.05 (AdobeBicubic) | Iya (?) | [Link](https://slow.pics/c/ln9ZZY5V) | Menggunakan Bicubic(0, 0.75) alias AdobeBicubic
+[Shoushimin Series](https://myanimelist.net/anime/57810) | 900 | Iya* | [Link](https://slow.pics/c/XZrhiZAo) | Pas ngecek height frac ntah kenapa jadi berantakan nativenya, tapi widht-nya 1600
 [Shy Season 2](https://myanimelist.net/anime/57567) | 812.05 (Bilinear) | Iya (?) | [Link](https://slow.pics/c/jTqMJ70K) | Kemungkinan resolusi fractional sekitar 812.04 atau 812.05
 [Tasuuketsu](https://slow.pics/c/s47J4Peb) | 874.5 (Bilinear) | Iya | [Link](https://slow.pics/c/QrCHwWtf) | frac
-[Shoushimin Series](https://myanimelist.net/anime/57810) | 900 | Iya* | [Link](https://slow.pics/c/XZrhiZAo) | Pas ngecek height frac ntah kenapa jadi berantakan nativenya, tapi widht-nya 1600
 [Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san](https://myanimelist.net/anime/54744san) | 837 | Tidak | | 
 [Tsue to Tsurugi no Wistoria](https://myanimelist.net/anime/58059) | 864.05 | Tidak | | Beberapa scene yang tidak konsisten nativenya
 [VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta](https://myanimelist.net/anime/54284) | ? | Tidak | | Sumbernya lumayan bagus
