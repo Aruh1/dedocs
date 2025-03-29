@@ -60,7 +60,7 @@ from vstools import set_output
 src = src_file(r"YourVideo.mkv")
 src = src.init_cut()
 
-native_res = dict(width=1356, height=763, base_height=762.7, base_width=1355.9)
+native_res = dict(width=1355.9, height=762.7, base_width=1356, base_height=763)
 builder, rescaled = (
     RescaleBuilder(src)
     .descale(Bilinear(), shift=(0.3625, 0.0625), **native_res)
