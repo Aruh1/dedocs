@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.796415442274">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.796571310151">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -30,12 +30,12 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.6.0.796415442274" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.796571310151" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.796415442274" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.796571310151" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.796415442274" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.6.0.796415442274" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.796571310151" data-turbo-eval="false" defer></script>
+    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.6.0.796571310151" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -190,32 +190,36 @@ for kernel in [Bilinear, Catrom, BicubicSharp, Lanczos(3)]:
 </doc-codeblock></div>
 <p>Dan ngerun menggunakan <a href="https://github.com/Jaded-Encoding-Thaumaturgy/vs-preview">vs-preview</a> dari <a href="https://github.com/Jaded-Encoding-Thaumaturgy/vs-jet">vs-jet</a> <code v-pre>vspreview descale.vpy</code></p>
 <p>Contoh hasilnya seperti <a href="https://slow.pics/c/49QvOKoW">ini</a>.</p>
-<p>Dikala Anda sudah mengecek native yang udah fix, aku sarankan menggunakan <a href="https://muxtools.vodes.pw/vodesfunc/descale/#vodesfunc.descale.DescaleTarget">DescaleTarget</a> dari <a href="https://github.com/Vodes/vodesfunc">vodesfunc</a>.</p>
+<p>Dikala Anda sudah mengecek native yang udah fix, aku sarankan menggunakan <a href="https://muxtools.vodes.pw/vodesfunc/rescale/#vodesfunc.rescale.RescaleBuilder">RescaleBuilder</a> dari <a href="https://github.com/Vodes/vodesfunc">vodesfunc</a>.</p>
 <p>Contoh:</p>
 <div class="codeblock-wrapper"><doc-codeblock>
 <pre class="language-python"><code v-pre class="language-python">dict(width=1356, height=763, src_top = 0.3625, src_height = 762.7, src_width=1355.9, src_left=0.0625)</code></pre>
 </doc-codeblock></div>
 <div class="codeblock-wrapper"><doc-codeblock>
-<pre class="language-python"><code v-pre class="language-python">from vstools import core
-from vskernels import Hermite
-from vodesfunc import Waifu2x_Doubler, DescaleTarget, set_output
+<pre class="language-python"><code v-pre class="language-python">from vodesfunc import RescaleBuilder
+from vskernels import Bilinear, Hermite
+from vsscale import ArtCNN
+from vsmuxtools import src_file
+from vstools import set_output
 
-src = core.bs.VideoSource(r&quot;YourVideo.mkv&quot;)
+# Source
+src = src_file(r&quot;YourVideo.mkv&quot;)
+src = src.init_cut()
 
-descale = DescaleTarget(
-    height=762.7,
-    base_height=763,
-    width=1355.9,
-    base_width=1356,
-    shift=(0.3625, 0.0625),
-    kernel=Bilinear,
-    upscaler=Waifu2x_Doubler(),
-    downscaler=Hermite(linear=True),
+native_res = dict(width=1356, height=763, base_height=762.7, base_width=1355.9)
+builder, rescaled = (
+    RescaleBuilder(src)
+    .descale(Bilinear(), shift=(0.3625, 0.0625), **native_res)
+    .double(ArtCNN.R8F64)
+    .downscale(Hermite(linear=True))
+    .final()
 )
-rescale = descale.get_upscaled(src)
 
 set_output(src)
-set_output(rescale)</code></pre>
+set_output(builder.descaled, &quot;Descale&quot;)
+set_output(builder.rescaled, &quot;Same Kernel Rescale&quot;)
+
+set_output(rescaled, &quot;Upscaled&quot;)</code></pre>
 </doc-codeblock></div>
 <p>Sekian dari saya.</p>
 <p>Reference by <a href="https://blog.n4o.xyz/posts/descalingvideo">N4O</a>.</p>
