@@ -41,7 +41,7 @@ Dan ngerun menggunakan [vs-preview](https://github.com/Jaded-Encoding-Thaumaturg
 
 Contoh hasilnya seperti [ini](https://slow.pics/c/49QvOKoW).
 
-Dikala Anda sudah mengecek native yang udah fix, aku sarankan menggunakan [DescaleTarget](https://muxtools.vodes.pw/vodesfunc/descale/#vodesfunc.descale.DescaleTarget) dari [vodesfunc](https://github.com/Vodes/vodesfunc).
+Dikala Anda sudah mengecek native yang udah fix, aku sarankan menggunakan [RescaleBuilder](https://muxtools.vodes.pw/vodesfunc/rescale/#vodesfunc.rescale.RescaleBuilder) dari [vodesfunc](https://github.com/Vodes/vodesfunc).
 
 Contoh:
 
@@ -50,26 +50,30 @@ dict(width=1356, height=763, src_top = 0.3625, src_height = 762.7, src_width=135
 ```
 
 ```py
-from vstools import core
-from vskernels import Hermite
-from vodesfunc import Waifu2x_Doubler, DescaleTarget, set_output
+from vodesfunc import RescaleBuilder
+from vskernels import Bilinear, Hermite
+from vsscale import ArtCNN
+from vsmuxtools import src_file
+from vstools import set_output
 
-src = core.bs.VideoSource(r"YourVideo.mkv")
+# Source
+src = src_file(r"YourVideo.mkv")
+src = src.init_cut()
 
-descale = DescaleTarget(
-    height=762.7,
-    base_height=763,
-    width=1355.9,
-    base_width=1356,
-    shift=(0.3625, 0.0625),
-    kernel=Bilinear,
-    upscaler=Waifu2x_Doubler(),
-    downscaler=Hermite(linear=True),
+native_res = dict(width=1356, height=763, base_height=762.7, base_width=1355.9)
+builder, rescaled = (
+    RescaleBuilder(src)
+    .descale(Bilinear(), shift=(0.3625, 0.0625), **native_res)
+    .double(ArtCNN.R8F64)
+    .downscale(Hermite(linear=True))
+    .final()
 )
-rescale = descale.get_upscaled(src)
 
 set_output(src)
-set_output(rescale)
+set_output(builder.descaled, "Descale")
+set_output(builder.rescaled, "Same Kernel Rescale")
+
+set_output(rescaled, "Upscaled")
 ```
 
 Sekian dari saya.
