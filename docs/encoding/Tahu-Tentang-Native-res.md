@@ -26,11 +26,13 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
 [Aru Majo ga Shinu Made](https://myanimelist.net/anime/59169) | ~810 | Tidak | | ([screening watermark](https://nyaa.si/view/1942749)) Tunggu yang lebih bagus
+[Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi](https://myanimelist.net/anime/60140) | 953.65p (Bilinear) | Iya | [Link](https://slow.pics/c/zTYGImCZ?image-fit=none) | frac
 [Ninja to Koroshiya no Futarigurashi](https://myanimelist.net/anime/58725) | 1080p? | Tidak | | (PV ProRes) Mantaf Shaft
 [Ore wa Seikan Kokka no Akutoku Ryoushu!](https://myanimelist.net/anime/60154) | 871p (Bilinear) | Iya | [Link](https://slow.pics/c/u2qJMrBm?image-fit=none) | 1548.4x871 frac
 [SK∞ OVA: Extra Part](https://myanimelist.net/anime/49363) | 720p (Bilinear) | Iya | [Link](https://slow.pics/c/D218hj91?image-fit=none) | Pretty gud
 [Summer Pocket](https://myanimelist.net/anime/50694) | 720p (Bilinear) | Iya | [Link](https://slow.pics/c/HEVFtxNK?image-fit=none) | (PV ProRes) Anjay, butuh menghilangkan Bilinear border
 [Teogonia](https://myanimelist.net/anime/58614) | ? | Tidak | | (PV ProRes) turu
+[Twins Hinahima](https://myanimelist.net/anime/60521) | ? | Tidak | | This is AI anime bro.
 [Uchuujin Muumuu](https://myanimelist.net/anime/60401) | ~954 | Tidak | | (PV ProRes) Full turu
 [Witch Watch](https://myanimelist.net/anime/59597) | ~878 | Tidak | | (PV ProRes) Looks good
 
