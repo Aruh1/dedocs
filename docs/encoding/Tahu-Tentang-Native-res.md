@@ -27,16 +27,20 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 ---  | --- | --- | ---
 [Aru Majo ga Shinu Made](https://myanimelist.net/anime/59169) | 952.25p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/fQkTA7ac?image-fit=none) | ~1693.99x952.25p, please check it
 [Ballpark de Tsukamaete!](https://myanimelist.net/anime/60293) | 954p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/zgJ2r1p4?image-fit=none) | Butuh menghilangkan border
+[Haite Kudasai, Takamine-san](https://myanimelist.net/anime/59457) | 875.2p (Bilinear) | Iya | [Link](https://slow.pics/c/TioIJ2bb?image-fit=none) | `dict(width=1556, height=875.2, base_width=1556, base_height=876, shift=(0.75, 0))`, need more testing
 [Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi](https://myanimelist.net/anime/60140) | 953.65p (Bilinear) | Iya | [Link](https://slow.pics/c/zTYGImCZ?image-fit=none) | frac
+[Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru](https://myanimelist.net/anime/60157) | ~872 | Tidak | | blur
 [Kijin Gentoushou](https://myanimelist.net/anime/49778) | ? | Tidak | | Ngoks
 [Ninja to Koroshiya no Futarigurashi](https://myanimelist.net/anime/58725) | 1080p? | Tidak | | (PV ProRes) Mantaf Shaft
 [Ore wa Seikan Kokka no Akutoku Ryoushu!](https://myanimelist.net/anime/60154) | 871p (Bilinear) | Iya | [Link](https://slow.pics/c/u2qJMrBm?image-fit=none) | 1548.4x871 frac
+[Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?](https://myanimelist.net/anime/60146) | ? | Tidak | | 
 [SK∞ OVA: Extra Part](https://myanimelist.net/anime/49363) | 720p (Bilinear) | Iya | [Link](https://slow.pics/c/D218hj91?image-fit=none) | Pretty gud
 [Summer Pocket](https://myanimelist.net/anime/50694) | 720p (Bilinear) | Iya | [Link](https://slow.pics/c/HEVFtxNK?image-fit=none) | (PV ProRes) Anjay, butuh menghilangkan Bilinear border
 [Teogonia](https://myanimelist.net/anime/58614) | ? | Tidak | | (PV ProRes) turu
 [Twins Hinahima](https://myanimelist.net/anime/60521) | ? | Tidak | | This is AI anime bro.
 [Uchuujin Muumuu](https://myanimelist.net/anime/60401) | ~954 | Tidak | | (PV ProRes) Full turu
 [Witch Watch](https://myanimelist.net/anime/59597) | ~878 | Tidak | | (PV ProRes) Looks good
+[Your Forma](https://myanimelist.net/anime/55995) | ~844 | Tidak | | 
 
 ### Winter 2025
 {.compact}
