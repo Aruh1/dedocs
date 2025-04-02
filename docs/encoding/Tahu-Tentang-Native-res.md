@@ -25,8 +25,8 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
-[Aru Majo ga Shinu Made](https://myanimelist.net/anime/59169) | 952.25p (Bilinear) | Iya | [Link](https://slow.pics/c/3XiDs5iW?image-fit=none) | frac
-[Ballpark de Tsukamaete!](https://myanimelist.net/anime/60293) | 954p (Bilinear) | Iya | [Link](https://slow.pics/c/cBxJaE6U?image-fit=none) | Butuh menghilangkan Bilinear border
+[Aru Majo ga Shinu Made](https://myanimelist.net/anime/59169) | 952.25p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/fQkTA7ac?image-fit=none) | ~1693.99x952.25p, please check it
+[Ballpark de Tsukamaete!](https://myanimelist.net/anime/60293) | 954p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/zgJ2r1p4?image-fit=none) | Butuh menghilangkan border
 [Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi](https://myanimelist.net/anime/60140) | 953.65p (Bilinear) | Iya | [Link](https://slow.pics/c/zTYGImCZ?image-fit=none) | frac
 [Kijin Gentoushou](https://myanimelist.net/anime/49778) | ? | Tidak | | Ngoks
 [Ninja to Koroshiya no Futarigurashi](https://myanimelist.net/anime/58725) | 1080p? | Tidak | | (PV ProRes) Mantaf Shaft
