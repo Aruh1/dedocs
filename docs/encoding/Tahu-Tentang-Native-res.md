@@ -41,6 +41,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Teogonia](https://myanimelist.net/anime/58614) | ? | Tidak | | (PV ProRes) turu
 [Twins Hinahima](https://myanimelist.net/anime/60521) | ? | Tidak | | This is AI anime bro.
 [Uchuujin Muumuu](https://myanimelist.net/anime/60401) | ~954 | Tidak | | (PV ProRes) Full turu
+[Wind Breaker S2](https://myanimelist.net/anime/59160) | ~871| Tidak | | 
 [Witch Watch](https://myanimelist.net/anime/59597) | ~878 | Tidak | | (PV ProRes) Looks good
 [Your Forma](https://myanimelist.net/anime/55995) | ~844 | Tidak | | 
 
@@ -76,7 +77,6 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi](https://myanimelist.net/anime/59349) | 881.65 (Bilinear) | Iya | [Link](https://slow.pics/c/aH7DZeOf) | frac
 [Unnamed Memory S2](https://myanimelist.net/anime/59142) | 1080? | Tidak | | But be careful
 [Watashi no Shiawase na Kekkon S2](https://myanimelist.net/anime/56701) | 843.75 (??) | Iya* | | Starved parah, jika kamu bisa menghandle wobble, everything is simple.
-[Wind Breaker S2](https://myanimelist.net/anime/59160) | ~871| Tidak | | 
 [Übel Blatt](https://myanimelist.net/anime/58216) | ~968 | Tidak | | 
 
 
