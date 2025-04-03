@@ -41,7 +41,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Teogonia](https://myanimelist.net/anime/58614) | ? | Tidak | | (PV ProRes) turu
 [Twins Hinahima](https://myanimelist.net/anime/60521) | ? | Tidak | | This is AI anime bro.
 [Uchuujin Muumuu](https://myanimelist.net/anime/60401) | ~954 | Tidak | | (PV ProRes) Full turu
-[Wind Breaker S2](https://myanimelist.net/anime/59160) | ~871| Tidak | | 
+[Wind Breaker S2](https://myanimelist.net/anime/59160) | ~871 | Tidak | | 
 [Witch Watch](https://myanimelist.net/anime/59597) | ~878 | Tidak | | (PV ProRes) Looks good
 [Your Forma](https://myanimelist.net/anime/55995) | ~844 | Tidak | | 
 
