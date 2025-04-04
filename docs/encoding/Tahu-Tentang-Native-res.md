@@ -27,6 +27,8 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 ---  | --- | --- | ---
 [Aru Majo ga Shinu Made](https://myanimelist.net/anime/59169) | 952.25p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/fQkTA7ac?image-fit=none) | ~1693.99x952.25p, please check it
 [Ballpark de Tsukamaete!](https://myanimelist.net/anime/60293) | 954p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/zgJ2r1p4?image-fit=none) | Butuh menghilangkan border
+[Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)](https://myanimelist.net/anime/52709) | ~900 | Tidak | | 
+[Enen no Shouboutai S3](https://myanimelist.net/anime/51818) | ~900 | Tidak | | 
 [Haite Kudasai, Takamine-san](https://myanimelist.net/anime/59457) | 875.2p (Bilinear) | Iya | [Link](https://slow.pics/c/TioIJ2bb?image-fit=none) | `dict(width=1556, height=875.2, base_width=1556, base_height=876, shift=(0.75, 0))`, need more testing
 [Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru](https://myanimelist.net/anime/58359) | ~938 dan 1080p | Tidak | | very gud
 [Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi](https://myanimelist.net/anime/60140) | 953.65p (Bilinear) | Iya | [Link](https://slow.pics/c/zTYGImCZ?image-fit=none) | frac
