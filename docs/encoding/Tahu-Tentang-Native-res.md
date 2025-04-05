@@ -31,6 +31,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Bye Bye, Earth S2](https://myanimelist.net/anime/59819) | ~875 | Tidak | | 
 [Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)](https://myanimelist.net/anime/52709) | ~900 | Tidak | | 
 [Enen no Shouboutai S3](https://myanimelist.net/anime/51818) | ~900 | Tidak | | 
+[Guilty Gear Strive: Dual Rulers](https://myanimelist.net/anime/59070) | 1080p? | Tidak | | 
 [Haite Kudasai, Takamine-san](https://myanimelist.net/anime/59457) | 875.2p (Bilinear) | Iya | [Link](https://slow.pics/c/TioIJ2bb?image-fit=none) | `dict(width=1556, height=875.2, base_width=1556, base_height=876, shift=(0.75, 0))`, need more testing
 [Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru](https://myanimelist.net/anime/58359) | ~938 dan 1080p | Tidak | | very gud
 [Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi](https://myanimelist.net/anime/60140) | 953.65p (Bilinear) | Iya | [Link](https://slow.pics/c/zTYGImCZ?image-fit=none) | frac
