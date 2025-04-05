@@ -35,6 +35,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi](https://myanimelist.net/anime/60140) | 953.65p (Bilinear) | Iya | [Link](https://slow.pics/c/zTYGImCZ?image-fit=none) | frac
 [Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru](https://myanimelist.net/anime/60157) | ~872 | Tidak | | blur
 [Kijin Gentoushou](https://myanimelist.net/anime/49778) | ? | Tidak | | Ngoks
+[Nazotoki wa Dinner no Ato de](https://myanimelist.net/anime/60377) | ~900 | Tidak | | 
 [Ninja to Koroshiya no Futarigurashi](https://myanimelist.net/anime/58725) | 1080p? | Tidak | | (PV ProRes) Mantaf Shaft
 [Ore wa Seikan Kokka no Akutoku Ryoushu!](https://myanimelist.net/anime/60154) | 871p (Bilinear) | Iya | [Link](https://slow.pics/c/u2qJMrBm?image-fit=none) | 1548.4x871 frac
 [Rock wa Lady no Tashinami deshite](https://myanimelist.net/anime/59360) | ~923 | Tidak | | some random
