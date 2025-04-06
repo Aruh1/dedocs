@@ -29,6 +29,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Aru Majo ga Shinu Made](https://myanimelist.net/anime/59169) | 952.25p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/fQkTA7ac?image-fit=none) | ~1693.99x952.25p, please check it
 [Ballpark de Tsukamaete!](https://myanimelist.net/anime/60293) | 954p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/zgJ2r1p4?image-fit=none) | Butuh menghilangkan border
 [Bye Bye, Earth S2](https://myanimelist.net/anime/59819) | ~875 | Tidak | | 
+[Classic★Stars](https://myanimelist.net/anime/59199) | ? | Tidak | | random
 [Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)](https://myanimelist.net/anime/52709) | ~900 | Tidak | | 
 [Enen no Shouboutai S3](https://myanimelist.net/anime/51818) | ~900 | Tidak | | 
 [Guilty Gear Strive: Dual Rulers](https://myanimelist.net/anime/59070) | 1080p? | Tidak | | 
@@ -38,6 +39,9 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru](https://myanimelist.net/anime/60157) | ~872 | Tidak | | blur
 [Kijin Gentoushou](https://myanimelist.net/anime/49778) | ? | Tidak | | Ngoks
 [Kowloon Generic Romance](https://myanimelist.net/anime/60083) | 875.15p (Bilinear) | Iya | [Link](https://slow.pics/c/XbnYERob?image-fit=none) | frac
+[Kuroshitsuji: Midori no Majo-hen](https://myanimelist.net/anime/59228) | ~871 | Tidak | | 
+[Lazarus](https://myanimelist.net/anime/56038) | 843.75p (Bilinear) | Iya | [Link](https://slow.pics/c/dTHJhNzG?image-fit=none) | very gud
+[Maebashi Witches](https://myanimelist.net/anime/59744) | ~924 | Tidak | | Sunrise nih senggol.
 [Nazotoki wa Dinner no Ato de](https://myanimelist.net/anime/60377) | ~900 | Tidak | | 
 [Ninja to Koroshiya no Futarigurashi](https://myanimelist.net/anime/58725) | 1080p? | Tidak | | (PV ProRes) Mantaf Shaft
 [Ore wa Seikan Kokka no Akutoku Ryoushu!](https://myanimelist.net/anime/60154) | 871p (Bilinear) | Iya | [Link](https://slow.pics/c/u2qJMrBm?image-fit=none) | 1548.4x871 frac
@@ -50,6 +54,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Teogonia](https://myanimelist.net/anime/58614) | ? | Tidak | | (PV ProRes) turu
 [Twins Hinahima](https://myanimelist.net/anime/60521) | ? | Tidak | | This is AI anime bro.
 [Uchuujin Muumuu](https://myanimelist.net/anime/60401) | ~954 | Tidak | | (PV ProRes) Full turu
+[Uma Musume: Cinderella Gray](https://myanimelist.net/anime/59636) | ~872 | Tidak | | 
 [Wind Breaker S2](https://myanimelist.net/anime/59160) | ~871 | Tidak | | 
 [Witch Watch](https://myanimelist.net/anime/59597) | ~878 | Tidak | | (PV ProRes) Looks good
 [Your Forma](https://myanimelist.net/anime/55995) | ~844 | Tidak | | 
