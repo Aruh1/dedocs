@@ -37,11 +37,13 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi](https://myanimelist.net/anime/60140) | 953.65p (Bilinear) | Iya | [Link](https://slow.pics/c/zTYGImCZ?image-fit=none) | frac
 [Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru](https://myanimelist.net/anime/60157) | ~872 | Tidak | | blur
 [Kijin Gentoushou](https://myanimelist.net/anime/49778) | ? | Tidak | | Ngoks
+[Kowloon Generic Romance](https://myanimelist.net/anime/60083) | 875.15p (Bilinear) | Iya | [Link](https://slow.pics/c/XbnYERob?image-fit=none) | frac
 [Nazotoki wa Dinner no Ato de](https://myanimelist.net/anime/60377) | ~900 | Tidak | | 
 [Ninja to Koroshiya no Futarigurashi](https://myanimelist.net/anime/58725) | 1080p? | Tidak | | (PV ProRes) Mantaf Shaft
 [Ore wa Seikan Kokka no Akutoku Ryoushu!](https://myanimelist.net/anime/60154) | 871p (Bilinear) | Iya | [Link](https://slow.pics/c/u2qJMrBm?image-fit=none) | 1548.4x871 frac
 [Rock wa Lady no Tashinami deshite](https://myanimelist.net/anime/59360) | ~923 | Tidak | | some random
 [Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?](https://myanimelist.net/anime/60146) | ? | Tidak | | 
+[Shoushimin Series S2](https://myanimelist.net/anime/59828) | 680p dan 900p (Bilinear) | Iya | [Comp without letterbox](https://slow.pics/c/IlS9tJq5?image-fit=none) | Jika ingin mendescale dengan letterbox hitam harus hati-hati.
 [SK∞ OVA: Extra Part](https://myanimelist.net/anime/49363) | 720p (Bilinear) | Iya | [Link](https://slow.pics/c/D218hj91?image-fit=none) | Pretty gud
 [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita S2](https://myanimelist.net/anime/50738) | ~873 | Tidak | | 
 [Summer Pocket](https://myanimelist.net/anime/50694) | 720p (Bilinear) | Iya | [Link](https://slow.pics/c/HEVFtxNK?image-fit=none) | (PV ProRes) Anjay, butuh menghilangkan Bilinear border
