@@ -25,6 +25,8 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
+[#Compass 2.0: Sentou Setsuri Kaiseki System](https://myanimelist.net/anime/53762) | ~864 | Tidak | | gud
+[Aharen-san wa Hakarenai S2](https://myanimelist.net/anime/59466) | ~844 | Tidak | | 
 [Anne Shirley](https://myanimelist.net/anime/60334) | ~900 | Tidak | | 
 [Aru Majo ga Shinu Made](https://myanimelist.net/anime/59169) | 952.25p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/fQkTA7ac?image-fit=none) | ~1693.99x952.25p, please check it
 [Ballpark de Tsukamaete!](https://myanimelist.net/anime/60293) | 954p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/zgJ2r1p4?image-fit=none) | Butuh menghilangkan border
@@ -32,6 +34,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Classic★Stars](https://myanimelist.net/anime/59199) | ? | Tidak | | random
 [Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)](https://myanimelist.net/anime/52709) | ~900 | Tidak | | 
 [Enen no Shouboutai S3](https://myanimelist.net/anime/51818) | ~900 | Tidak | | 
+[Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru](https://myanimelist.net/anime/59935) | 717.6p (Bilinear) | Iya | [Link](https://slow.pics/c/9ZsAYGg1?image-fit=none) | frac
 [Guilty Gear Strive: Dual Rulers](https://myanimelist.net/anime/59070) | 1080p? | Tidak | | 
 [Haite Kudasai, Takamine-san](https://myanimelist.net/anime/59457) | 875.2p (Bilinear) | Iya | [Link](https://slow.pics/c/TioIJ2bb?image-fit=none) | `dict(width=1556, height=875.2, base_width=1556, base_height=876, shift=(0.75, 0))`, need more testing
 [Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru](https://myanimelist.net/anime/58359) | ~938 dan 1080p | Tidak | | very gud
@@ -55,9 +58,11 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Twins Hinahima](https://myanimelist.net/anime/60521) | ? | Tidak | | This is AI anime bro.
 [Uchuujin Muumuu](https://myanimelist.net/anime/60401) | ~954 | Tidak | | (PV ProRes) Full turu
 [Uma Musume: Cinderella Gray](https://myanimelist.net/anime/59636) | ~872 | Tidak | | 
+[Vigilante: Boku no Hero Academia Illegals](https://myanimelist.net/anime/60593) | 720p (Bilinear) | Iya | [Link](https://slow.pics/c/i8JrpOZW?image-fit=none) | int
 [Wind Breaker S2](https://myanimelist.net/anime/59160) | ~871 | Tidak | | 
 [Witch Watch](https://myanimelist.net/anime/59597) | ~878 | Tidak | | (PV ProRes) Looks good
 [Your Forma](https://myanimelist.net/anime/55995) | ~844 | Tidak | | 
+[Zatsu Tabi: That's Journey](https://myanimelist.net/anime/55514) | 900p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/qmBwkaqv?image-fit=none) | Padahal Isshun 1080p ini kok 900p??
 
 ### Winter 2025
 {.compact}
