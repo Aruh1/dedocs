@@ -28,6 +28,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [#Compass 2.0: Sentou Setsuri Kaiseki System](https://myanimelist.net/anime/53762) | ~864 | Tidak | | gud
 [Aharen-san wa Hakarenai S2](https://myanimelist.net/anime/59466) | ~844 | Tidak | | 
 [Anne Shirley](https://myanimelist.net/anime/60334) | ~900 | Tidak | | 
+[Apocalypse Hotel](https://myanimelist.net/anime/59675) | ~810 | Tidak | | 
 [Aru Majo ga Shinu Made](https://myanimelist.net/anime/59169) | 952.25p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/fQkTA7ac?image-fit=none) | ~1693.99x952.25p, please check it
 [Ballpark de Tsukamaete!](https://myanimelist.net/anime/60293) | 954p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/zgJ2r1p4?image-fit=none) | Butuh menghilangkan border
 [Bye Bye, Earth S2](https://myanimelist.net/anime/59819) | ~875 | Tidak | | 
@@ -50,6 +51,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Ore wa Seikan Kokka no Akutoku Ryoushu!](https://myanimelist.net/anime/60154) | 871p (Bilinear) | Iya | [Link](https://slow.pics/c/u2qJMrBm?image-fit=none) | 1548.4x871 frac
 [Rock wa Lady no Tashinami deshite](https://myanimelist.net/anime/59360) | ~923 | Tidak | | some random
 [Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?](https://myanimelist.net/anime/60146) | ? | Tidak | | 
+[Shiunji-ke no Kodomotachi](https://myanimelist.net/anime/58131) | ~837 | Tidak | | 
 [Shoushimin Series S2](https://myanimelist.net/anime/59828) | 680p dan 900p (Bilinear) | Iya | [Comp without letterbox](https://slow.pics/c/IlS9tJq5?image-fit=none) | Jika ingin mendescale dengan letterbox hitam harus hati-hati.
 [SK∞ OVA: Extra Part](https://myanimelist.net/anime/49363) | 720p (Bilinear) | Iya | [Link](https://slow.pics/c/D218hj91?image-fit=none) | Pretty gud
 [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita S2](https://myanimelist.net/anime/50738) | ~873 | Tidak | | 
