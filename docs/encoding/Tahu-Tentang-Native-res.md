@@ -49,6 +49,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Nazotoki wa Dinner no Ato de](https://myanimelist.net/anime/60377) | ~900 | Tidak | | 
 [Ninja to Koroshiya no Futarigurashi](https://myanimelist.net/anime/58725) | 1080p? | Tidak | | (PV ProRes) Mantaf Shaft
 [Ore wa Seikan Kokka no Akutoku Ryoushu!](https://myanimelist.net/anime/60154) | 871p (Bilinear) | Iya | [Link](https://slow.pics/c/u2qJMrBm?image-fit=none) | 1548.4x871 frac
+[Princession Orchestra](https://myanimelist.net/anime/59078) | ~810 | Tidak | | 
 [Rock wa Lady no Tashinami deshite](https://myanimelist.net/anime/59360) | ~923 | Tidak | | some random
 [Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?](https://myanimelist.net/anime/60146) | ? | Tidak | | 
 [Shiunji-ke no Kodomotachi](https://myanimelist.net/anime/58131) | ~837 | Tidak | | 
