@@ -38,6 +38,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru](https://myanimelist.net/anime/59935) | 717.6p (Bilinear) | Iya | [Link](https://slow.pics/c/9ZsAYGg1?image-fit=none) | frac
 [Guilty Gear Strive: Dual Rulers](https://myanimelist.net/anime/59070) | 1080p? | Tidak | | 
 [Haite Kudasai, Takamine-san](https://myanimelist.net/anime/59457) | 875.2p (Bilinear) | Iya | [Link](https://slow.pics/c/TioIJ2bb?image-fit=none) | `dict(width=1556, height=875.2, base_width=1556, base_height=876, shift=(0.75, 0))`, need more testing
+[Hibi wa Sugiredo Meshi Umashi](https://myanimelist.net/anime/60658) | 862p (Bilinear) | Iya | [Link](https://slow.pics/c/Q2ZnN4QW?image-fit=none) | gud
 [Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru](https://myanimelist.net/anime/58359) | ~938 dan 1080p | Tidak | | very gud
 [Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi](https://myanimelist.net/anime/60140) | 953.65p (Bilinear) | Iya | [Link](https://slow.pics/c/zTYGImCZ?image-fit=none) | frac
 [Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru](https://myanimelist.net/anime/60157) | ~872 | Tidak | | blur
@@ -46,6 +47,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Kuroshitsuji: Midori no Majo-hen](https://myanimelist.net/anime/59228) | ~871 | Tidak | | 
 [Lazarus](https://myanimelist.net/anime/56038) | 843.75p (Bilinear) | Iya | [Link](https://slow.pics/c/dTHJhNzG?image-fit=none) | very gud
 [Maebashi Witches](https://myanimelist.net/anime/59744) | ~924 | Tidak | | Sunrise nih senggol.
+[Mono](https://myanimelist.net/anime/58492) | 847.05p (Bilinear) | Iya | [Link](https://slow.pics/c/aYp3ssNt?image-fit=none) | frac
 [Nazotoki wa Dinner no Ato de](https://myanimelist.net/anime/60377) | ~900 | Tidak | | 
 [Ninja to Koroshiya no Futarigurashi](https://myanimelist.net/anime/58725) | 1080p? | Tidak | | (PV ProRes) Mantaf Shaft
 [Ore wa Seikan Kokka no Akutoku Ryoushu!](https://myanimelist.net/anime/60154) | 871p (Bilinear) | Iya | [Link](https://slow.pics/c/u2qJMrBm?image-fit=none) | 1548.4x871 frac
