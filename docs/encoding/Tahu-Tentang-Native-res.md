@@ -67,7 +67,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Wind Breaker S2](https://myanimelist.net/anime/59160) | ~871 | Tidak | | 
 [Witch Watch](https://myanimelist.net/anime/59597) | ~878 | Tidak | | (PV ProRes) Looks good
 [Your Forma](https://myanimelist.net/anime/55995) | ~844 | Tidak | | 
-[Zatsu Tabi: That's Journey](https://myanimelist.net/anime/55514) | 900p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/qmBwkaqv?image-fit=none) | Padahal Isshun 1080p ini kok 900p??
+[Zatsu Tabi: That's Journey](https://myanimelist.net/anime/55514) | 900p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/qmBwkaqv?image-fit=none) | Padahal Isshun 1080p ini kok 900p?? (OPnya beda resolusi menggunakan 1500x844p, aku tahu ini bukan 16:9 tapi yaudahlah)
 
 ### Winter 2025
 {.compact}
