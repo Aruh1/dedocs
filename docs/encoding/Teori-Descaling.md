@@ -60,10 +60,10 @@ from vstools import set_output
 src = src_file(r"YourVideo.mkv")
 src = src.init_cut()
 
-native_res = dict(width=1355.9, height=762.7, base_width=1356, base_height=763)
+native_res = dict(width=1355.9, height=762.7, base_width=1356, base_height=763, shift=(0.3625, 0.0625))
 builder, rescaled = (
     RescaleBuilder(src)
-    .descale(Bilinear(), shift=(0.3625, 0.0625), **native_res)
+    .descale(Bilinear(), **native_res)
     .double(ArtCNN.R8F64)
     .downscale(Hermite(linear=True))
     .final()
@@ -75,6 +75,21 @@ set_output(builder.rescaled, "Same Kernel Rescale")
 
 set_output(rescaled, "Upscaled")
 ```
+
+Analoginya seperti ini: kita telah mendapatkan native resolusi dari anime *Boku no Kokoro no Yabai Yatsu* sebagai contoh.
+
+1. **Descale dengan Kernel Bilinear**  
+   Native resolusi yang ditemukan adalah **1355.9x762.7p** dengan basis resolusi **1356x763p**. Ini berarti resolusi asli anime tersebut sedikit bergeser, dengan nilai `src_top=0.3625` dan `src_left=0.0625`. Pergeseran ini berasal dari proses produksi di studio.
+
+2. **Double dengan ArtCNN**  
+   Setelah mendapatkan native resolusi, kita melakukan *upscaling* menggunakan **ArtCNN**. ArtCNN adalah *Convolutional Neural Network* yang dirancang untuk meningkatkan resolusi gambar secara detail.
+
+3. **Downscale dengan Kernel Hermite**  
+   Setelah *upscaling*, kita menggunakan kernel **Hermite** dengan *Linear Light* untuk melakukan *downscaling* kembali ke resolusi sumber.  
+   - **Linear Light** berarti proses resizing dilakukan dalam ruang cahaya linear. Gambar diubah ke ruang cahaya linear sebelum di-*resize*, lalu dikembalikan ke gamma setelahnya.  
+   - Kernel Hermite (bicubic dengan `a=0, b=0`) digunakan karena sifatnya yang cocok untuk menjaga detail selama proses resizing.
+
+Dengan langkah-langkah ini, kita dapat merekonstruksi resolusi asli anime dengan lebih baik, sekaligus memastikan hasil akhir tetap sesuai dengan sumbernya.
 
 Sekian dari saya.
 
