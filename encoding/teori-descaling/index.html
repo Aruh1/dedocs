@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.7.0.798040795955">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.7.0.799597900396">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.7.0">
@@ -30,12 +30,12 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.7.0.798040795955" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.7.0.799597900396" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.7.0.798040795955" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.7.0.799597900396" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.7.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.7.0.798040795955" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.7.0.798040795955" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.7.0.799597900396" data-turbo-eval="false" defer></script>
+    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.7.0.799597900396" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -205,10 +205,10 @@ from vstools import set_output
 src = src_file(r&quot;YourVideo.mkv&quot;)
 src = src.init_cut()
 
-native_res = dict(width=1355.9, height=762.7, base_width=1356, base_height=763)
+native_res = dict(width=1355.9, height=762.7, base_width=1356, base_height=763, shift=(0.3625, 0.0625))
 builder, rescaled = (
     RescaleBuilder(src)
-    .descale(Bilinear(), shift=(0.3625, 0.0625), **native_res)
+    .descale(Bilinear(), **native_res)
     .double(ArtCNN.R8F64)
     .downscale(Hermite(linear=True))
     .final()
@@ -220,6 +220,23 @@ set_output(builder.rescaled, &quot;Same Kernel Rescale&quot;)
 
 set_output(rescaled, &quot;Upscaled&quot;)</code></pre>
 </doc-codeblock></div>
+<p>Analoginya seperti ini: kita telah mendapatkan native resolusi dari anime <em>Boku no Kokoro no Yabai Yatsu</em> sebagai contoh.</p>
+<ol>
+<li><p><strong>Descale dengan Kernel Bilinear</strong><br />
+Native resolusi yang ditemukan adalah <strong>1355.9x762.7p</strong> dengan basis resolusi <strong>1356x763p</strong>. Ini berarti resolusi asli anime tersebut sedikit bergeser, dengan nilai <code v-pre>src_top=0.3625</code> dan <code v-pre>src_left=0.0625</code>. Pergeseran ini berasal dari proses produksi di studio.</p>
+</li>
+<li><p><strong>Double dengan ArtCNN</strong><br />
+Setelah mendapatkan native resolusi, kita melakukan <em>upscaling</em> menggunakan <strong>ArtCNN</strong>. ArtCNN adalah <em>Convolutional Neural Network</em> yang dirancang untuk meningkatkan resolusi gambar secara detail.</p>
+</li>
+<li><p><strong>Downscale dengan Kernel Hermite</strong><br />
+Setelah <em>upscaling</em>, kita menggunakan kernel <strong>Hermite</strong> dengan <em>Linear Light</em> untuk melakukan <em>downscaling</em> kembali ke resolusi sumber.</p>
+<ul>
+<li><strong>Linear Light</strong> berarti proses resizing dilakukan dalam ruang cahaya linear. Gambar diubah ke ruang cahaya linear sebelum di-<em>resize</em>, lalu dikembalikan ke gamma setelahnya.</li>
+<li>Kernel Hermite (bicubic dengan <code v-pre>a=0, b=0</code>) digunakan karena sifatnya yang cocok untuk menjaga detail selama proses resizing.</li>
+</ul>
+</li>
+</ol>
+<p>Dengan langkah-langkah ini, kita dapat merekonstruksi resolusi asli anime dengan lebih baik, sekaligus memastikan hasil akhir tetap sesuai dengan sumbernya.</p>
 <p>Sekian dari saya.</p>
 <p>Reference by <a href="https://blog.n4o.xyz/posts/descalingvideo">N4O</a>.</p>
 
