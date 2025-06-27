@@ -21,6 +21,12 @@ Tabel ini berisi informasi berikut:
 
 Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mungkin tidak akurat atau ketinggalan zaman! Terimalah dengan bijaksana, dan lakukan uji tuntas. Verifikasi semuanya sendiri sebelum menerapkan descale pada encode Anda!
 
+### Summer 2025
+{.compact}
+Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
+---  | --- | --- | ---
+[Takopii no Genzai](https://myanimelist.net/anime/60489) | 900p | Tidak | | no comment
+
 ### Spring 2025
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
