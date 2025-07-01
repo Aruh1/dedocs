@@ -25,6 +25,7 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
+[Kanojo, Okarishimasu S4](https://myanimelist.net/anime/59277) | ~838 dan ~810 | Tidak | | pretty gud
 [Koujo Denka no Kateikyoushi](https://myanimelist.net/anime/56907) | 810p | Iya | [Link](https://slow.pics/c/NOsIXfsb?image-fit=none) | nice
 [Takopii no Genzai](https://myanimelist.net/anime/60489) | ~900 | Tidak | | no comment
 
