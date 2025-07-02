@@ -25,8 +25,11 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
+[Guimi Zhi Zhu: Xiaochou Pian (Lord of Mysteries)](https://myanimelist.net/anime/49818) | 1440p | Tidak | [Link](https://slow.pics/c/DVgNoNor) | Sourcenya native 1440p, alias reso 2538x1080p, from [motbob](https://discord.com/channels/1036144652077764608/1036144652077764611/1389408567513190563).
 [Kanojo, Okarishimasu S4](https://myanimelist.net/anime/59277) | ~838 dan ~810 | Tidak | | pretty gud
 [Koujo Denka no Kateikyoushi](https://myanimelist.net/anime/56907) | 810p | Iya | [Link](https://slow.pics/c/NOsIXfsb?image-fit=none) | nice
+[Mattaku Saikin no Tantei to Kitara](https://myanimelist.net/anime/59632) | 873.8p | Iya (Bilinear) | [Link](https://slow.pics/c/9xyo7DcL?image-fit=none) | 1553.4 x 873.8
+[Necronomico no Cosmic Horror Show](https://myanimelist.net/anime/60505) | 900p | Iya* | [Link](https://slow.pics/c/1X21gCgZ?image-fit=none) | 3Dnya descaleable namun tidak dengan 2Dnya yang post-processed
 [Takopii no Genzai](https://myanimelist.net/anime/60489) | ~900 | Tidak | | no comment
 
 ### Spring 2025
