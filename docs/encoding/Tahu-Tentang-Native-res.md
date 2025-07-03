@@ -28,6 +28,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205) | ~810 | Tidak | | very blurry
 [Guimi Zhi Zhu: Xiaochou Pian (Lord of Mysteries)](https://myanimelist.net/anime/49818) | 1440p | Tidak | [Link](https://slow.pics/c/DVgNoNor) | Sourcenya native 1440p, alias reso 2538x1080p, from [motbob](https://discord.com/channels/1036144652077764608/1036144652077764611/1389408567513190563).
 [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S2](https://myanimelist.net/anime/56700) | ~812 | Tidak | | idk pretty tricky
+[Jigoku Sensei Nube](https://myanimelist.net/anime/59342) | ~871 | Tidak | | mamlaz
 [Kanojo, Okarishimasu S4](https://myanimelist.net/anime/59277) | ~838 dan ~810 | Tidak | | pretty gud
 [Koujo Denka no Kateikyoushi](https://myanimelist.net/anime/56907) | 810p (Bilinear) | Iya | [Link](https://slow.pics/c/NOsIXfsb?image-fit=none) | nice
 [Mattaku Saikin no Tantei to Kitara](https://myanimelist.net/anime/59632) | 873.8p (Bilinear) | Iya | [Link](https://slow.pics/c/9xyo7DcL?image-fit=none) | 1553.4 x 873.8
