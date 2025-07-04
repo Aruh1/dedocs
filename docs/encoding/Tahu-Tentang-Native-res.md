@@ -34,7 +34,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Kanojo, Okarishimasu S4](https://myanimelist.net/anime/59277) | ~838 dan ~810 | Tidak | | pretty gud
 [Koujo Denka no Kateikyoushi](https://myanimelist.net/anime/56907) | 810p (Bilinear) | Iya | [Link](https://slow.pics/c/NOsIXfsb?image-fit=none) | nice
 [Mattaku Saikin no Tantei to Kitara](https://myanimelist.net/anime/59632) | 873.8p (Bilinear) | Iya | [Link](https://slow.pics/c/9xyo7DcL?image-fit=none) | 1553.4 x 873.8
-[Mizu Zokusei no Mahoutsukai](https://myanimelist.net/anime/60732) | 843.75p (Bilinear) | Iya | Link | very gud. `dict(width=1500, height=843.75, base_height=844, base_width=1500, shift=(0.2, 0)`
+[Mizu Zokusei no Mahoutsukai](https://myanimelist.net/anime/60732) | 843.75p (Bilinear) | Iya | [Link](https://slow.pics/c/SqZxQVhX?image-fit=none) | very gud. `dict(width=1500, height=843.75, base_height=844, base_width=1500, shift=(0.2, 0)`
 [Necronomico no Cosmic Horror Show](https://myanimelist.net/anime/60505) | 900p (Bilinear) | Iya* | [Link](https://slow.pics/c/1X21gCgZ?image-fit=none) | 3Dnya descaleable namun tidak dengan 2Dnya yang post-processed, dengan border.
 [Onmyou Kaiten Re:Birth](https://myanimelist.net/anime/61150) | ~900 | Tidak | | very gud
 [Silent Witch: Chinmoku no Majo no Kakushigoto](https://myanimelist.net/anime/59459) | ~896 | Tidak | | gud
