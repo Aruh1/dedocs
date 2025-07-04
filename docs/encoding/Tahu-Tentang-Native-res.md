@@ -26,16 +26,23 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
 [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205) | ~810 | Tidak | | very blurry
+[Dandadan S2](https://myanimelist.net/anime/60543) | ~885 | Tidak | | 
 [Guimi Zhi Zhu: Xiaochou Pian (Lord of Mysteries)](https://myanimelist.net/anime/49818) | 1440p | Tidak | [Link](https://slow.pics/c/DVgNoNor) | Sourcenya native 1440p, alias reso 2538x1080p, from [motbob](https://discord.com/channels/1036144652077764608/1036144652077764611/1389408567513190563).
 [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S2](https://myanimelist.net/anime/56700) | ~812 | Tidak | | idk pretty tricky
 [Jigoku Sensei Nube](https://myanimelist.net/anime/59342) | ~871 | Tidak | | mamlaz
+[Kamitsubaki-shi Kensetsuchuu.](https://myanimelist.net/anime/57820) | ~900 | Tidak | | 3D
 [Kanojo, Okarishimasu S4](https://myanimelist.net/anime/59277) | ~838 dan ~810 | Tidak | | pretty gud
 [Koujo Denka no Kateikyoushi](https://myanimelist.net/anime/56907) | 810p (Bilinear) | Iya | [Link](https://slow.pics/c/NOsIXfsb?image-fit=none) | nice
 [Mattaku Saikin no Tantei to Kitara](https://myanimelist.net/anime/59632) | 873.8p (Bilinear) | Iya | [Link](https://slow.pics/c/9xyo7DcL?image-fit=none) | 1553.4 x 873.8
+[Mizu Zokusei no Mahoutsukai](https://myanimelist.net/anime/60732) | 843.75p (Bilinear) | Iya | Link | very gud. `dict(width=1500, height=843.75, base_height=844, base_width=1500, shift=(0.2, 0)`
 [Necronomico no Cosmic Horror Show](https://myanimelist.net/anime/60505) | 900p (Bilinear) | Iya* | [Link](https://slow.pics/c/1X21gCgZ?image-fit=none) | 3Dnya descaleable namun tidak dengan 2Dnya yang post-processed, dengan border.
 [Onmyou Kaiten Re:Birth](https://myanimelist.net/anime/61150) | ~900 | Tidak | | very gud
+[Silent Witch: Chinmoku no Majo no Kakushigoto](https://myanimelist.net/anime/59459) | ~896 | Tidak | | gud
 [Takopii no Genzai](https://myanimelist.net/anime/60489) | ~900 | Tidak | | no comment
 [Tsuyokute New Saga](https://myanimelist.net/anime/53397) | 850p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/0CwbzQd9?image-fit=none) | Tidak mengikuti standar 16:9, overall gud.
+[Watari-kun no xx ga Houkai Sunzen](https://myanimelist.net/anime/56693) | ~882 | Tidak | | My eyes...
+[Yofukashi no Uta S2](https://myanimelist.net/anime/58390) | ~875 | Tidak | | keknya beda threatment dari S1
+[Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru](https://myanimelist.net/anime/59421) | ~842 | Tidak | | blur
 
 ### Spring 2025
 {.compact}
