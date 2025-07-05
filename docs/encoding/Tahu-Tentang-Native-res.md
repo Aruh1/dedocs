@@ -25,6 +25,7 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
+[9-nine- Ruler's Crown](https://myanimelist.net/anime/58957) | ~830 | Tidak | | 
 [Arknights: Rise from Ember](https://myanimelist.net/anime/58749) | ? | Tidak | | blur
 [Busu ni Hanataba wo.](https://myanimelist.net/anime/53512) | ~806 | Tidak | | 
 [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205) | ~810 | Tidak | | very blurry
