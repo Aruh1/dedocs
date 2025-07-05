@@ -25,6 +25,8 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
+[Arknights: Rise from Ember](https://myanimelist.net/anime/58749) | ? | Tidak | | blur
+[Busu ni Hanataba wo.](https://myanimelist.net/anime/53512) | ~806 | Tidak | | 
 [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205) | ~810 | Tidak | | very blurry
 [Dandadan S2](https://myanimelist.net/anime/60543) | ~885 | Tidak | | 
 [Guimi Zhi Zhu: Xiaochou Pian (Lord of Mysteries)](https://myanimelist.net/anime/49818) | 1440p | Tidak | [Link](https://slow.pics/c/DVgNoNor) | Sourcenya native 1440p, alias reso 2538x1080p, from [motbob](https://discord.com/channels/1036144652077764608/1036144652077764611/1389408567513190563).
