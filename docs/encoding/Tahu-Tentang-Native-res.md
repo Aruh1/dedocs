@@ -35,6 +35,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Jigoku Sensei Nube](https://myanimelist.net/anime/59342) | ~871 | Tidak | | mamlaz
 [Kamitsubaki-shi Kensetsuchuu.](https://myanimelist.net/anime/57820) | ~900 | Tidak | | 3D
 [Kanojo, Okarishimasu S4](https://myanimelist.net/anime/59277) | ~838 dan ~810 | Tidak | | pretty gud
+[Kizetsu Yuusha to Ansatsu Hime](https://myanimelist.net/anime/60951) | ~900 | Tidak | | gud
 [Koujo Denka no Kateikyoushi](https://myanimelist.net/anime/56907) | 810p (Bilinear) | Iya | [Link](https://slow.pics/c/NOsIXfsb?image-fit=none) | nice
 [Mattaku Saikin no Tantei to Kitara](https://myanimelist.net/anime/59632) | 873.8p (Bilinear) | Iya | [Link](https://slow.pics/c/9xyo7DcL?image-fit=none) | 1553.4 x 873.8
 [Mizu Zokusei no Mahoutsukai](https://myanimelist.net/anime/60732) | 843.75p (Bilinear) | Iya | [Link](https://slow.pics/c/SqZxQVhX?image-fit=none) | very gud. `dict(width=1500, height=843.75, base_height=844, base_width=1500, shift=(0.2, 0)`
@@ -66,6 +67,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Haite Kudasai, Takamine-san](https://myanimelist.net/anime/59457) | 875.2p (Bilinear) | Iya | [Link](https://slow.pics/c/TioIJ2bb?image-fit=none) | `dict(width=1556, height=875.2, base_width=1556, base_height=876, shift=(0.75, 0))`, need more testing
 [Hibi wa Sugiredo Meshi Umashi](https://myanimelist.net/anime/60658) | 862p (Bilinear) | Iya | [Link](https://slow.pics/c/Q2ZnN4QW?image-fit=none) | gud
 [Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru](https://myanimelist.net/anime/58359) | ~938 dan 1080p | Tidak | | very gud
+[Kaijuu 8-gou: Hoshina no Kyuujitsu](https://myanimelist.net/anime/59490) | ~864 | Tidak | | 
 [Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi](https://myanimelist.net/anime/60140) | 953.65p (Bilinear) | Iya | [Link](https://slow.pics/c/zTYGImCZ?image-fit=none) | frac
 [Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru](https://myanimelist.net/anime/60157) | ~872 | Tidak | | blur
 [Kijin Gentoushou](https://myanimelist.net/anime/49778) | ? | Tidak | | Ngoks
