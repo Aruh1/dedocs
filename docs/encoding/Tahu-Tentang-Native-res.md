@@ -27,6 +27,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 ---  | --- | --- | ---
 [9-nine- Ruler's Crown](https://myanimelist.net/anime/58957) | ~830 | Tidak | | 
 [Arknights: Rise from Ember](https://myanimelist.net/anime/58749) | ? | Tidak | | blur
+[Bad Girl](https://myanimelist.net/anime/59161) | 880.9p (Bilinear) | Iya | [Link](https://slow.pics/c/2ziij8Jm?image-fit=none) | 1566.04 x 880.9
 [Busu ni Hanataba wo.](https://myanimelist.net/anime/53512) | ~806 | Tidak | | 
 [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205) | ~810 | Tidak | | very blurry
 [Dandadan S2](https://myanimelist.net/anime/60543) | ~885 | Tidak | | 
@@ -41,11 +42,13 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Mizu Zokusei no Mahoutsukai](https://myanimelist.net/anime/60732) | 843.75p (Bilinear) | Iya | [Link](https://slow.pics/c/SqZxQVhX?image-fit=none) | very gud. `dict(width=1500, height=843.75, base_height=844, base_width=1500, shift=(0.2, 0)`
 [Necronomico no Cosmic Horror Show](https://myanimelist.net/anime/60505) | 900p (Bilinear) | Iya* | [Link](https://slow.pics/c/1X21gCgZ?image-fit=none) | 3Dnya descaleable namun tidak dengan 2Dnya yang post-processed, dengan border.
 [Onmyou Kaiten Re:Birth](https://myanimelist.net/anime/61150) | ~900 | Tidak | | very gud
+[Seishun Buta Yarou wa Santa Claus no Yume wo Minai](https://myanimelist.net/anime/57433) | ~871 | Tidak | | standar cloverworks
 [Silent Witch: Chinmoku no Majo no Kakushigoto](https://myanimelist.net/anime/59459) | ~896 | Tidak | | gud
 [Takopii no Genzai](https://myanimelist.net/anime/60489) | ~900 | Tidak | | no comment
 [Tsuyokute New Saga](https://myanimelist.net/anime/53397) | 850p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/0CwbzQd9?image-fit=none) | Tidak mengikuti standar 16:9, overall gud.
 [Watari-kun no xx ga Houkai Sunzen](https://myanimelist.net/anime/56693) | ~882 | Tidak | | My eyes...
 [Yofukashi no Uta S2](https://myanimelist.net/anime/58390) | ~875 | Tidak | | keknya beda threatment dari S1
+[Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru](https://myanimelist.net/anime/59424) | 844p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/m0S7KdUY?image-fit=none) | int
 [Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru](https://myanimelist.net/anime/59421) | ~842 | Tidak | | blur
 
 ### Spring 2025
