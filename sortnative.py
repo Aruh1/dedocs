@@ -1,62 +1,88 @@
 import re
+from pathlib import Path
+from typing import List, Tuple
 
-def sort_table(file_path, output_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        lines = file.readlines()
 
-    # Regex untuk mendeteksi header tabel
-    table_header_pattern = re.compile(r"^Nama Anime \| Native Resolution\(s\)/Kernel \| Descale\(\?\) \| Komparasi \| Catatan")
-    table_divider_pattern = re.compile(r"^-+ \| -+ \| -+ \| -+ \| -+")
-    section_header_pattern = re.compile(r"^### .+")  # Untuk mendeteksi header seperti "### Summer 2024"
+def parse_table_row(line: str) -> Tuple[str, str]:
+    """Parse a table row and return the anime name and full row."""
+    anime_name = line.split("|")[0].strip().lower()
+    return anime_name, line
 
-    sorted_lines = []
+
+def sort_table(input_path: Path, output_path: Path) -> None:
+    """Sort anime tables in markdown file while preserving structure."""
+    # Compile regex patterns once
+    patterns = {
+        "table_header": re.compile(
+            r"^Nama Anime \| Native Resolution\(s\)/Kernel \| Descale\(\?\) \| Komparasi \| Catatan"
+        ),
+        "table_divider": re.compile(r"^-+ \| -+ \| -+ \| -+ \| -+"),
+        "section_header": re.compile(r"^### .+"),
+    }
+
+    try:
+        with open(input_path, "r", encoding="utf-8") as file:
+            lines = file.readlines()
+    except FileNotFoundError:
+        print(f"Error: Input file {input_path} not found")
+        return
+    except Exception as e:
+        print(f"Error reading file: {e}")
+        return
+
+    sorted_lines: List[str] = []
+    table_rows: List[str] = []
     inside_table = False
-    table_rows = []
-    section_header = None
 
     for line in lines:
-        if section_header_pattern.match(line):
-            # Simpan header section (misalnya "### Summer 2024")
+        if patterns["section_header"].match(line):
             if inside_table:
-                # Sort and append the current table before moving to the next section
-                table_rows.sort(key=lambda x: x.split('|')[0].strip().lower())
+                # Sort and append current table before new section
+                table_rows.sort(key=lambda x: parse_table_row(x)[0])
                 sorted_lines.extend(table_rows)
                 table_rows = []
                 inside_table = False
-            section_header = line
             sorted_lines.append(line)
-        elif table_header_pattern.match(line):
+
+        elif patterns["table_header"].match(line):
             inside_table = True
             sorted_lines.append(line)
-        elif table_divider_pattern.match(line):
+
+        elif patterns["table_divider"].match(line):
             sorted_lines.append(line)
+
         elif inside_table:
-            if line.strip() == "":
-                # Sort the table rows alphabetically by the first column (Nama Anime)
-                table_rows.sort(key=lambda x: x.split('|')[0].strip().lower())
+            if not line.strip():
+                # End of table - sort and append rows
+                table_rows.sort(key=lambda x: parse_table_row(x)[0])
                 sorted_lines.extend(table_rows)
                 sorted_lines.append(line)
                 table_rows = []
                 inside_table = False
             else:
                 table_rows.append(line)
+
         else:
             sorted_lines.append(line)
 
-    # Pastikan tabel terakhir juga diurutkan
+    # Handle last table if exists
     if inside_table and table_rows:
-        table_rows.sort(key=lambda x: x.split('|')[0].strip().lower())
+        table_rows.sort(key=lambda x: parse_table_row(x)[0])
         sorted_lines.extend(table_rows)
 
-    # Write the sorted content to the output file
-    with open(output_path, 'w', encoding='utf-8') as output_file:
-        output_file.writelines(sorted_lines)
+    try:
+        with open(output_path, "w", encoding="utf-8") as file:
+            file.writelines(sorted_lines)
+        print(f"Successfully sorted tables and saved to {output_path}")
+    except Exception as e:
+        print(f"Error writing file: {e}")
 
-# Filepath input dan output
-input_file = './docs/encoding/Tahu-Tentang-Native-res.md'
-output_file = './docs/encoding/Tahu-Tentang-Native-res.md'
 
-# Jalankan fungsi
-sort_table(input_file, output_file)
+def main():
+    input_file = Path("./docs/encoding/Tahu-Tentang-Native-res.md")
+    output_file = Path("./docs/encoding/Tahu-Tentang-Native-res.md")
+    sort_table(input_file, output_file)
 
-print(f"Tabel berhasil diurutkan dan disimpan ke {output_file}")
+
+if __name__ == "__main__":
+    main()
