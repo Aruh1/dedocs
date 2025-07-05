@@ -36,6 +36,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Jigoku Sensei Nube](https://myanimelist.net/anime/59342) | ~871 | Tidak | | mamlaz
 [Kamitsubaki-shi Kensetsuchuu.](https://myanimelist.net/anime/57820) | ~900 | Tidak | | 3D
 [Kanojo, Okarishimasu S4](https://myanimelist.net/anime/59277) | ~838 dan ~810 | Tidak | | pretty gud
+[Kaoru Hana wa Rin to Saku](https://myanimelist.net/anime/59845) | ~871 | Tidak | | standar cloverworks
 [Kizetsu Yuusha to Ansatsu Hime](https://myanimelist.net/anime/60951) | ~900 | Tidak | | gud
 [Koujo Denka no Kateikyoushi](https://myanimelist.net/anime/56907) | 810p (Bilinear) | Iya | [Link](https://slow.pics/c/NOsIXfsb?image-fit=none) | nice
 [Mattaku Saikin no Tantei to Kitara](https://myanimelist.net/anime/59632) | 873.8p (Bilinear) | Iya | [Link](https://slow.pics/c/9xyo7DcL?image-fit=none) | 1553.4 x 873.8
@@ -44,6 +45,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Onmyou Kaiten Re:Birth](https://myanimelist.net/anime/61150) | ~900 | Tidak | | very gud
 [Seishun Buta Yarou wa Santa Claus no Yume wo Minai](https://myanimelist.net/anime/57433) | ~871 | Tidak | | standar cloverworks
 [Silent Witch: Chinmoku no Majo no Kakushigoto](https://myanimelist.net/anime/59459) | ~896 | Tidak | | gud
+[Sono Bisque Doll wa Koi wo Suru S2](https://myanimelist.net/anime/53065) | ~871 | Tidak | | standar cloverworks
 [Takopii no Genzai](https://myanimelist.net/anime/60489) | ~900 | Tidak | | no comment
 [Tsuyokute New Saga](https://myanimelist.net/anime/53397) | 850p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/0CwbzQd9?image-fit=none) | Tidak mengikuti standar 16:9, overall gud.
 [Watari-kun no xx ga Houkai Sunzen](https://myanimelist.net/anime/56693) | ~882 | Tidak | | My eyes...
