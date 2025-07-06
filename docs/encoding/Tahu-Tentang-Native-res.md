@@ -30,10 +30,14 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Arknights: Rise from Ember](https://myanimelist.net/anime/58749) | ? | Tidak | | blur
 [Bad Girl](https://myanimelist.net/anime/59161) | 880.9p (Bilinear) | Iya | [Link](https://slow.pics/c/2ziij8Jm?image-fit=none) | 1566.04 x 880.9
 [Busu ni Hanataba wo.](https://myanimelist.net/anime/53512) | ~806 | Tidak | | 
+[CITY THE ANIMATION](https://myanimelist.net/anime/59898) | 1080p | Tidak | | Kyoto peak
 [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205) | ~810 | Tidak | | very blurry
 [Dandadan S2](https://myanimelist.net/anime/60543) | ~885 | Tidak | | 
 [Dekin no Mogura](https://myanimelist.net/anime/60315) | ~885 | Tidak | | mamlaz
+[Gachiakuta](https://myanimelist.net/anime/59062) | 720p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/dQK7lyl5?image-fit=none) | int
+[Game Center Shoujo to Ibunka Kouryuu](https://myanimelist.net/anime/59689) | ~886 | Tidak | | gud
 [Guimi Zhi Zhu: Xiaochou Pian (Lord of Mysteries)](https://myanimelist.net/anime/49818) | 1440p | Tidak | [Link](https://slow.pics/c/DVgNoNor) | Sourcenya native 1440p, alias reso 2538x1080p, from [motbob](https://discord.com/channels/1036144652077764608/1036144652077764611/1389408567513190563).
+[Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku]() | 900p (Bilinear) | Iya | [Link](https://slow.pics/c/08hi2Xr5?image-fit=none) | int, with bilinear border
 [Jibaku Shounen Hanako-kun S2 Part 2](https://myanimelist.net/anime/61339) | 918p (Bilinear) | Iya | [Link](https://slow.pics/c/HItwA6lk?image-fit=none) | Sama seperti Part 1
 [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S2](https://myanimelist.net/anime/56700) | ~812 | Tidak | | idk pretty tricky
 [Jigoku Sensei Nube](https://myanimelist.net/anime/59342) | ~871 | Tidak | | mamlaz
@@ -45,7 +49,9 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Mattaku Saikin no Tantei to Kitara](https://myanimelist.net/anime/59632) | 873.8p (Bilinear) | Iya | [Link](https://slow.pics/c/9xyo7DcL?image-fit=none) | 1553.4 x 873.8
 [Mizu Zokusei no Mahoutsukai](https://myanimelist.net/anime/60732) | 843.75p (Bilinear) | Iya | [Link](https://slow.pics/c/SqZxQVhX?image-fit=none) | very gud. `dict(width=1500, height=843.75, base_height=844, base_width=1500, shift=(0.2, 0)`
 [Necronomico no Cosmic Horror Show](https://myanimelist.net/anime/60505) | 900p (Bilinear) | Iya* | [Link](https://slow.pics/c/1X21gCgZ?image-fit=none) | 3Dnya descaleable namun tidak dengan 2Dnya yang post-processed, dengan border.
+[Nyaight of the Living Cat](https://myanimelist.net/anime/58197) | ~900 | Tidak | | 
 [Onmyou Kaiten Re:Birth](https://myanimelist.net/anime/61150) | ~900 | Tidak | | very gud
+[Ruri no Houseki](https://myanimelist.net/anime/59791) | ~848 | Tidak | | 
 [Seishun Buta Yarou wa Santa Claus no Yume wo Minai](https://myanimelist.net/anime/57433) | ~871 | Tidak | | standar cloverworks
 [Silent Witch: Chinmoku no Majo no Kakushigoto](https://myanimelist.net/anime/59459) | ~896 | Tidak | | gud
 [Sono Bisque Doll wa Koi wo Suru S2](https://myanimelist.net/anime/53065) | ~871 | Tidak | | standar cloverworks
