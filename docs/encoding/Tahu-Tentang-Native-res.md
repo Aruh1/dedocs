@@ -33,7 +33,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [CITY THE ANIMATION](https://myanimelist.net/anime/59898) | 1080p | Tidak | | Kyoto peak
 [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205) | ~810 | Tidak | | very blurry
 [Dandadan S2](https://myanimelist.net/anime/60543) | ~885 | Tidak | | 
-[Dekin no Mogura](https://myanimelist.net/anime/60315) | ~885 | Tidak | | mamlaz
+[Dekin no Mogura](https://myanimelist.net/anime/60315) | 863.32p (Bilinear) | [Iya](https://slow.pics/c/d4AS9VXz?image-fit=none) | Link | frac
 [Gachiakuta](https://myanimelist.net/anime/59062) | 720p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/dQK7lyl5?image-fit=none) | int
 [Game Center Shoujo to Ibunka Kouryuu](https://myanimelist.net/anime/59689) | ~886 | Tidak | | gud
 [Guimi Zhi Zhu: Xiaochou Pian (Lord of Mysteries)](https://myanimelist.net/anime/49818) | 1440p | Tidak | [Link](https://slow.pics/c/DVgNoNor) | Sourcenya native 1440p, alias reso 2538x1080p, from [motbob](https://discord.com/channels/1036144652077764608/1036144652077764611/1389408567513190563).
