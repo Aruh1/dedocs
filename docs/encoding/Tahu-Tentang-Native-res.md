@@ -32,7 +32,9 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Busu ni Hanataba wo.](https://myanimelist.net/anime/53512) | ~806 | Tidak | | 
 [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205) | ~810 | Tidak | | very blurry
 [Dandadan S2](https://myanimelist.net/anime/60543) | ~885 | Tidak | | 
+[Dekin no Mogura](https://myanimelist.net/anime/60315) | ~885 | Tidak | | mamlaz
 [Guimi Zhi Zhu: Xiaochou Pian (Lord of Mysteries)](https://myanimelist.net/anime/49818) | 1440p | Tidak | [Link](https://slow.pics/c/DVgNoNor) | Sourcenya native 1440p, alias reso 2538x1080p, from [motbob](https://discord.com/channels/1036144652077764608/1036144652077764611/1389408567513190563).
+[Jibaku Shounen Hanako-kun S2 Part 2](https://myanimelist.net/anime/61339) | 918p (Bilinear) | Iya | [Link](https://slow.pics/c/HItwA6lk?image-fit=none) | Sama seperti Part 1
 [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S2](https://myanimelist.net/anime/56700) | ~812 | Tidak | | idk pretty tricky
 [Jigoku Sensei Nube](https://myanimelist.net/anime/59342) | ~871 | Tidak | | mamlaz
 [Kamitsubaki-shi Kensetsuchuu.](https://myanimelist.net/anime/57820) | ~900 | Tidak | | 3D
