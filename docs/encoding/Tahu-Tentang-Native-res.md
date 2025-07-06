@@ -26,6 +26,7 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
 [9-nine- Ruler's Crown](https://myanimelist.net/anime/58957) | ~830 | Tidak | | 
+[Ame to Kimi to](https://myanimelist.net/anime/59619) | ~871 | Tidak | | dunno
 [Arknights: Rise from Ember](https://myanimelist.net/anime/58749) | ? | Tidak | | blur
 [Bad Girl](https://myanimelist.net/anime/59161) | 880.9p (Bilinear) | Iya | [Link](https://slow.pics/c/2ziij8Jm?image-fit=none) | 1566.04 x 880.9
 [Busu ni Hanataba wo.](https://myanimelist.net/anime/53512) | ~806 | Tidak | | 
