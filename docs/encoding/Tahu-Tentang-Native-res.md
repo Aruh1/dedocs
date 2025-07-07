@@ -25,12 +25,11 @@ Pengetahuan kami tentang descale akan terus berkembang. Beberapa temuan ini mung
 {.compact}
 Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan 
 ---  | --- | --- | ---
-[Hotel Inhumans](https://myanimelist.net/anime/60260) | ~882 | Tidak | | 
-[Busamen Gachi Fighter](https://myanimelist.net/anime/60316) | 850.4p (Bilinear) | Iya | [Link](https://slow.pics/c/P8q9lPcx?image-fit=none) | frac
 [9-nine- Ruler's Crown](https://myanimelist.net/anime/58957) | ~830 | Tidak | | 
 [Ame to Kimi to](https://myanimelist.net/anime/59619) | ~871 | Tidak | | dunno
 [Arknights: Rise from Ember](https://myanimelist.net/anime/58749) | ? | Tidak | | blur
 [Bad Girl](https://myanimelist.net/anime/59161) | 880.9p (Bilinear) | Iya | [Link](https://slow.pics/c/2ziij8Jm?image-fit=none) | 1566.04 x 880.9
+[Busamen Gachi Fighter](https://myanimelist.net/anime/60316) | 850.4p (Bilinear) | Iya | [Link](https://slow.pics/c/P8q9lPcx?image-fit=none) | frac
 [Busu ni Hanataba wo.](https://myanimelist.net/anime/53512) | ~806 | Tidak | | 
 [CITY THE ANIMATION](https://myanimelist.net/anime/59898) | 1080p | Tidak | | Kyoto peak
 [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205) | ~810 | Tidak | | very blurry
@@ -38,6 +37,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Dekin no Mogura](https://myanimelist.net/anime/60315) | 863.32p (Bilinear) | Iya | [Link](https://slow.pics/c/d4AS9VXz?image-fit=none) | frac
 [Game Center Shoujo to Ibunka Kouryuu](https://myanimelist.net/anime/59689) | ~886 | Tidak | | gud
 [Guimi Zhi Zhu: Xiaochou Pian (Lord of Mysteries)](https://myanimelist.net/anime/49818) | 1440p | Tidak | [Link](https://slow.pics/c/DVgNoNor) | Sourcenya native 1440p, alias reso 2538x1080p, from [motbob](https://discord.com/channels/1036144652077764608/1036144652077764611/1389408567513190563).
+[Hotel Inhumans](https://myanimelist.net/anime/60260) | ~882 | Tidak | | 
 [Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku]() | 900p (Bilinear) | Iya | [Link](https://slow.pics/c/08hi2Xr5?image-fit=none) | int, with bilinear border
 [Jibaku Shounen Hanako-kun S2 Part 2](https://myanimelist.net/anime/61339) | 918p (Bilinear) | Iya | [Link](https://slow.pics/c/HItwA6lk?image-fit=none) | Sama seperti Part 1
 [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S2](https://myanimelist.net/anime/56700) | ~812 | Tidak | | idk pretty tricky
