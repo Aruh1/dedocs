@@ -37,6 +37,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Dekin no Mogura](https://myanimelist.net/anime/60315) | 863.32p (Bilinear) | Iya | [Link](https://slow.pics/c/d4AS9VXz?image-fit=none) | frac
 [Food Court de, Mata Ashita.](https://myanimelist.net/anime/60508) | ~830 | Tidak | | 
 [Game Center Shoujo to Ibunka Kouryuu](https://myanimelist.net/anime/59689) | ~886 | Tidak | | gud
+[Grand Blue S2](https://myanimelist.net/anime/59986) | ~871 | Tidak | | 
 [Guimi Zhi Zhu: Xiaochou Pian (Lord of Mysteries)](https://myanimelist.net/anime/49818) | 1440p | Tidak | [Link](https://slow.pics/c/DVgNoNor) | Sourcenya native 1440p, alias reso 2538x1080p, from [motbob](https://discord.com/channels/1036144652077764608/1036144652077764611/1389408567513190563).
 [Hotel Inhumans](https://myanimelist.net/anime/60260) | ~882 | Tidak | | 
 [Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku]() | 900p (Bilinear) | Iya | [Link](https://slow.pics/c/08hi2Xr5?image-fit=none) | int, with bilinear border
@@ -60,6 +61,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Takopii no Genzai](https://myanimelist.net/anime/60489) | ~900 | Tidak | | no comment
 [Tsuyokute New Saga](https://myanimelist.net/anime/53397) | 850p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/0CwbzQd9?image-fit=none) | Tidak mengikuti standar 16:9, overall gud.
 [Watari-kun no xx ga Houkai Sunzen](https://myanimelist.net/anime/56693) | ~882 | Tidak | | My eyes...
+[Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)](https://myanimelist.net/anime/60326) | ~947 | Tidak? | | ***Hampir** descaleable tapi ntah kenapa ngeshift, ntah antara upscale dari studionya apa kernelnya. 
 [Yofukashi no Uta S2](https://myanimelist.net/anime/58390) | ~875 | Tidak | | keknya beda threatment dari S1
 [Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru](https://myanimelist.net/anime/59424) | 844p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/m0S7KdUY?image-fit=none) | int
 [Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru](https://myanimelist.net/anime/59421) | ~842 | Tidak | | blur
