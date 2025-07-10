@@ -44,12 +44,14 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Jibaku Shounen Hanako-kun S2 Part 2](https://myanimelist.net/anime/61339) | 918p (Bilinear) | Iya | [Link](https://slow.pics/c/HItwA6lk?image-fit=none) | Sama seperti Part 1
 [Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S2](https://myanimelist.net/anime/56700) | ~812 | Tidak | | idk pretty tricky
 [Jigoku Sensei Nube](https://myanimelist.net/anime/59342) | ~871 | Tidak | | mamlaz
+[Kakkou no Iinazuke S2](https://myanimelist.net/anime/59402) | ~902 | Tidak | | 
 [Kamitsubaki-shi Kensetsuchuu.](https://myanimelist.net/anime/57820) | ~900 | Tidak | | 3D
 [Kanojo, Okarishimasu S4](https://myanimelist.net/anime/59277) | ~838 dan ~810 | Tidak | | pretty gud
 [Kaoru Hana wa Rin to Saku](https://myanimelist.net/anime/59845) | ~871 | Tidak | | standar cloverworks
 [Kizetsu Yuusha to Ansatsu Hime](https://myanimelist.net/anime/60951) | ~900 | Tidak | | gud
 [Koujo Denka no Kateikyoushi](https://myanimelist.net/anime/56907) | 810p (Bilinear) | Iya | [Link](https://slow.pics/c/NOsIXfsb?image-fit=none) | nice
 [Mattaku Saikin no Tantei to Kitara](https://myanimelist.net/anime/59632) | 873.8p (Bilinear) | Iya | [Link](https://slow.pics/c/9xyo7DcL?image-fit=none) | 1553.4 x 873.8
+[Mikadono Sanshimai wa Angai, Choroi.](https://myanimelist.net/anime/59207) | 864p (Bilinear) | Iya* | [Link](https://slow.pics/c/FOi9gBNU?image-fit=none) | P.A. Works is tricky
 [Mizu Zokusei no Mahoutsukai](https://myanimelist.net/anime/60732) | 843.75p (Bilinear) | Iya | [Link](https://slow.pics/c/SqZxQVhX?image-fit=none) | very gud. `dict(width=1500, height=843.75, base_height=844, base_width=1500, shift=(0.2, 0)`
 [Necronomico no Cosmic Horror Show](https://myanimelist.net/anime/60505) | 900p (Bilinear) | Iya* | [Link](https://slow.pics/c/1X21gCgZ?image-fit=none) | 3Dnya descaleable namun tidak dengan 2Dnya yang post-processed, dengan border.
 [Nyaight of the Living Cat](https://myanimelist.net/anime/58197) | ~900 | Tidak | | 
@@ -59,7 +61,10 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Silent Witch: Chinmoku no Majo no Kakushigoto](https://myanimelist.net/anime/59459) | ~896 | Tidak | | gud
 [Sono Bisque Doll wa Koi wo Suru S2](https://myanimelist.net/anime/53065) | ~871 | Tidak | | standar cloverworks
 [Takopii no Genzai](https://myanimelist.net/anime/60489) | ~900 | Tidak | | no comment
+[Tate no Yuusha no Nariagari S4](https://myanimelist.net/anime/57907) | 843.75p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/wheikNdA?image-fit=none) | nice
+[Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu S2](https://myanimelist.net/anime/59095) | 899.26p | Iya (Bilinear) | [Link](https://slow.pics/c/Fx24uuOU?image-fit=none) | very gud
 [Tsuyokute New Saga](https://myanimelist.net/anime/53397) | 850p (AdobeBicubic) | Iya | [Link](https://slow.pics/c/0CwbzQd9?image-fit=none) | Tidak mengikuti standar 16:9, overall gud.
+[Turkey!](https://myanimelist.net/anime/54028) | 871p (Bilinear) | Iya | [Link](https://slow.pics/c/HYRATpE5?image-fit=none) | int
 [Watari-kun no xx ga Houkai Sunzen](https://myanimelist.net/anime/56693) | ~882 | Tidak | | My eyes...
 [Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)](https://myanimelist.net/anime/60326) | ~947 | Tidak? | | ***Hampir** descaleable tapi ntah kenapa ngeshift, ntah antara upscale dari studionya apa kernelnya. 
 [Yofukashi no Uta S2](https://myanimelist.net/anime/58390) | ~875 | Tidak | | keknya beda threatment dari S1
