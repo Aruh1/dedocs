@@ -35,7 +35,9 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205) | ~810 | Tidak | | very blurry
 [Dandadan S2](https://myanimelist.net/anime/60543) | ~885 | Tidak | | 
 [Dekin no Mogura](https://myanimelist.net/anime/60315) | 863.32p (Bilinear) | Iya | [Link](https://slow.pics/c/d4AS9VXz?image-fit=none) | frac
+[Dr. Stone: Science Future (S4 Part 2)](https://myanimelist.net/anime/61322) | 809.6p (Bilinear) | Iya | [Link](https://slow.pics/c/ZCA3D7wW?image-fit=none) | frac
 [Food Court de, Mata Ashita.](https://myanimelist.net/anime/60508) | ~830 | Tidak | | 
+[Futari Solo Camp](https://myanimelist.net/anime/60665) | 900p (BIlinear) | Iya | [Link](https://slow.pics/c/6Pw9m0MT?image-fit=none) | int, with border
 [Game Center Shoujo to Ibunka Kouryuu](https://myanimelist.net/anime/59689) | ~886 | Tidak | | gud
 [Grand Blue S2](https://myanimelist.net/anime/59986) | ~871 | Tidak | | 
 [Guimi Zhi Zhu: Xiaochou Pian (Lord of Mysteries)](https://myanimelist.net/anime/49818) | 1440p | Tidak | [Link](https://slow.pics/c/DVgNoNor) | Sourcenya native 1440p, alias reso 2538x1080p, from [motbob](https://discord.com/channels/1036144652077764608/1036144652077764611/1389408567513190563).
@@ -54,6 +56,7 @@ Nama Anime | Native Resolution(s)/Kernel | Descale(?) | Komparasi | Catatan
 [Mikadono Sanshimai wa Angai, Choroi.](https://myanimelist.net/anime/59207) | 864p (Bilinear) | Iya* | [Link](https://slow.pics/c/FOi9gBNU?image-fit=none) | P.A. Works is tricky
 [Mizu Zokusei no Mahoutsukai](https://myanimelist.net/anime/60732) | 843.75p (Bilinear) | Iya | [Link](https://slow.pics/c/SqZxQVhX?image-fit=none) | very gud. `dict(width=1500, height=843.75, base_height=844, base_width=1500, shift=(0.2, 0)`
 [Necronomico no Cosmic Horror Show](https://myanimelist.net/anime/60505) | 900p (Bilinear) | Iya* | [Link](https://slow.pics/c/1X21gCgZ?image-fit=none) | 3Dnya descaleable namun tidak dengan 2Dnya yang post-processed, dengan border.
+[Nukitashi the Animation](https://myanimelist.net/anime/57969) | ~810 | Iya* | | idk ini source yg kudapetin terlalu jelek, jadi yaa .... gak kukasih link komparasi
 [Nyaight of the Living Cat](https://myanimelist.net/anime/58197) | ~900 | Tidak | | 
 [Onmyou Kaiten Re:Birth](https://myanimelist.net/anime/61150) | ~900 | Tidak | | very gud
 [Ruri no Houseki](https://myanimelist.net/anime/59791) | ~848 | Tidak | | 
