@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.818585764243">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.818587981583">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -30,11 +30,11 @@
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../../resources/css/retype.css?v=3.11.0.818585764243" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.818587981583" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.818585764243" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.818587981583" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.818585764243" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.818587981583" data-turbo-eval="false" defer></script>
     <link href="../../resources/css/katex.css?v=3.11.0" rel="stylesheet">
     <script id="katex-js" data-cfasync="false" src="../../resources/js/katex.js?v=3.11.0" defer></script>
 </head>
@@ -190,60 +190,115 @@
 <li>1 Gibibyte (GiB) = 1,024 MiB = 1,073,741,824 bytes (<span class="math">2^{30}</span>)</li>
 <li>1 Tebibyte (TiB) = 1,024 GiB = 1,099,511,627,776 bytes (<span class="math">2^{40}</span>)</li>
 </ul>
-<doc-anchor-target id="cara-perhitungannya">
+<doc-anchor-target id="analisis-matematis-mendalam">
     <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#cara-perhitungannya">#</doc-anchor-trigger>
-        <span>Cara Perhitungannya</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#analisis-matematis-mendalam">#</doc-anchor-trigger>
+        <span>Analisis Matematis Mendalam</span>
     </h2>
 </doc-anchor-target>
-<p>Mari kita hitung mengapa <strong>1 TB</strong> (Desimal) menjadi <strong>931 GB</strong> (Biner/GiB di Windows).</p>
-<ol>
-<li><p><strong>Ambil jumlah bytes dalam 1 TB Desimal:</strong>
-<span class="math">1 \text{ TB} = 1,000,000,000,000 \text{ bytes}</span></p>
-</li>
-<li><p><strong>Bagi dengan nilai 1 GB Biner (1 GiB):</strong>
-<span class="math">1 \text{ GiB} = 1,073,741,824 \text{ bytes}</span></p>
-</li>
-<li><p><strong>Lakukan pembagian:</strong>
-<span class="math">\frac{1,000,000,000,000}{1,073,741,824} \approx 931.322</span></p>
-</li>
-</ol>
-<p>Jadi, <strong>1 TB (Desimal) <span class="math">\approx</span> 931 GiB (Biner)</strong>.</p>
-<p>Karena Windows menampilkan GiB sebagai &quot;GB&quot;, maka yang Anda lihat di properti drive adalah <strong>931 GB</strong>.</p>
-<doc-anchor-target id="tabel-konversi-umum">
+<p>Berikut adalah penjabaran matematis mengapa perbedaan kapasitas ini terjadi dan bagaimana menghitungnya secara presisi.</p>
+<doc-anchor-target id="1-rumus-umum-konversi">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#tabel-konversi-umum">#</doc-anchor-trigger>
-        <span>Tabel Konversi Umum</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#1-rumus-umum-konversi">#</doc-anchor-trigger>
+        <span>1. Rumus Umum Konversi</span>
     </h3>
 </doc-anchor-target>
+<p>Untuk mengonversi kapasitas dari satuan Desimal (iklan) ke Biner (sistem operasi), kita dapat menggunakan rumus berikut:</p>
+<p><span class="math">Kapasitas_{Biner} = Kapasitas_{Desimal} \times \left( \frac{1000}{1024} \right)^n</span></p>
+<p>Dimana:</p>
+<ul>
+<li><span class="math">n = 1</span> untuk Kilo (KB <span class="math">\to</span> KiB)</li>
+<li><span class="math">n = 2</span> untuk Mega (MB <span class="math">\to</span> MiB)</li>
+<li><span class="math">n = 3</span> untuk Giga (GB <span class="math">\to</span> GiB)</li>
+<li><span class="math">n = 4</span> untuk Tera (TB <span class="math">\to</span> TiB)</li>
+</ul>
+<p><strong>Contoh Perhitungan untuk 1 TB:</strong>
+<span class="math">1 \text{ TB} = 1 \times \left( \frac{1000}{1024} \right)^4</span>
+<span class="math">1 \text{ TB} \approx 1 \times 0.9094947</span>
+<span class="math">1 \text{ TB} \approx 0.909 \text{ TiB}</span></p>
+<p>Karena 1 TiB = 1024 GiB, maka:
+<span class="math">0.9094947 \text{ TiB} \times 1024 \approx 931.32 \text{ GiB}</span></p>
+<doc-anchor-target id="2-persentase-kehilangan-kapasitas">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#2-persentase-kehilangan-kapasitas">#</doc-anchor-trigger>
+        <span>2. Persentase &quot;Kehilangan&quot; Kapasitas</span>
+    </h3>
+</doc-anchor-target>
+<p>Semakin besar satuan penyimpanannya, semakin besar persentase perbedaan antara label desimal dan kapasitas biner yang terbaca. Ini disebut sebagai <em>phantom loss</em>.</p>
+<p>Rumus persentase perbedaan:
+<span class="math">\% \text{ Loss} = \left( 1 - \left( \frac{1000}{1024} \right)^n \right) \times 100\%</span></p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
 <tr>
-<th style="text-align: left;">Label Produsen (Desimal)</th>
-<th style="text-align: left;">Terbaca di Windows (Biner)</th>
+<th style="text-align: left;">Satuan</th>
+<th style="text-align: center;">Pangkat (<span class="math">n</span>)</th>
+<th style="text-align: left;">Rasio (<span class="math">1000/1024</span>)^n</th>
+<th style="text-align: left;">Persentase &quot;Hilang&quot;</th>
+<th style="text-align: left;">Contoh (Label <span class="math">\to</span> Terbaca)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align: left;">500 GB</td>
-<td style="text-align: left;">~465 GB</td>
+<td style="text-align: left;">KB</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: left;">0.976</td>
+<td style="text-align: left;">2.4%</td>
+<td style="text-align: left;">1 KB <span class="math">\to</span> 0.97 KiB</td>
 </tr>
 <tr>
-<td style="text-align: left;">1 TB</td>
-<td style="text-align: left;">~931 GB</td>
+<td style="text-align: left;">MB</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: left;">0.953</td>
+<td style="text-align: left;">4.7%</td>
+<td style="text-align: left;">1 MB <span class="math">\to</span> 0.95 MiB</td>
 </tr>
 <tr>
-<td style="text-align: left;">2 TB</td>
-<td style="text-align: left;">~1.81 TB (1862 GB)</td>
+<td style="text-align: left;">GB</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: left;">0.931</td>
+<td style="text-align: left;">6.9%</td>
+<td style="text-align: left;">1 GB <span class="math">\to</span> 0.93 GiB</td>
 </tr>
 <tr>
-<td style="text-align: left;">4 TB</td>
-<td style="text-align: left;">~3.63 TB</td>
+<td style="text-align: left;">TB</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: left;">0.909</td>
+<td style="text-align: left;">9.1%</td>
+<td style="text-align: left;">1 TB <span class="math">\to</span> 0.90 TiB (931 GiB)</td>
+</tr>
+<tr>
+<td style="text-align: left;">PB</td>
+<td style="text-align: center;">5</td>
+<td style="text-align: left;">0.888</td>
+<td style="text-align: left;">11.2%</td>
+<td style="text-align: left;">1 PB <span class="math">\to</span> 0.88 PiB</td>
 </tr>
 </tbody>
 </table>
 </div>
+<doc-anchor-target id="3-overhead-filesystem--partisi">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#3-overhead-filesystem--partisi">#</doc-anchor-trigger>
+        <span>3. Overhead Filesystem &amp; Partisi</span>
+    </h3>
+</doc-anchor-target>
+<p>Selain perbedaan konversi matematika di atas, kapasitas yang bisa digunakan (<em>usable space</em>) akan berkurang lagi karena faktor teknis sistem operasi:</p>
+<ol>
+<li><strong>Partition Table (GPT/MBR)</strong>: Sebagian kecil ruang di awal dan akhir drive digunakan untuk menyimpan informasi partisi.</li>
+<li><strong>Filesystem Structures</strong>:
+<ul>
+<li><strong>NTFS (Windows)</strong>: Menggunakan <em>Master File Table</em> (MFT) yang secara default mereservasi sekitar 12.5% dari ukuran partisi untuk metadata file, meskipun ruang ini bersifat dinamis (bisa dipakai data jika penuh).</li>
+<li><strong>ext4 (Linux)</strong>: Menggunakan <em>inodes</em> yang memakan ruang statis.</li>
+</ul>
+</li>
+<li><strong>Reserved Space</strong>: Windows sering membuat partisi tersembunyi (seperti <em>System Reserved</em> atau <em>Recovery Partition</em>) berukuran 100MB - 500MB yang tidak terlihat di drive letter utama (C: / D:).</li>
+</ol>
+<p>Jadi, jika Anda membeli SSD 1 TB:</p>
+<ul>
+<li>Secara matematis terbaca: <strong>931 GiB</strong></li>
+<li>Dikurangi partisi recovery &amp; overhead filesystem: Mungkin tersisa <strong>~930 GiB</strong> atau sedikit kurang yang benar-benar kosong (<em>free space</em>).</li>
+</ul>
 
                                 
                                 <!-- Required only on API pages -->
