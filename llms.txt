@@ -1,0 +1,18 @@
+﻿# Home
+
+> Docs untuk pololer-project
+
+- [Home](https://docs.pololer.my.id/index.md): Home
+
+## Encoding
+
+- [Cara Descale yang baik dan benar](https://docs.pololer.my.id/encoding/teori-descaling.md): Resizing Anime sama Descaling Anime menghasilkan hal yang berbeda, Descaling menggunakan algoritma lain agar Anime dapat dikembalikan ke resolusi asli (Native Resolution).
+- [Cara Menginstall VapourSynth](https://docs.pololer.my.id/encoding/cara-menginstall-vapoursynth.md): Mata
+- [Perhitungan Aspek Rasio 16:9](https://docs.pololer.my.id/encoding/perhitungan-aspek-rasio.md): Cara mudah menghitung lebar dan tinggi dengan aspek rasio 16:9 menggunakan langkah-langkah sederhana.
+- [Tahu Tentang Native Resolution](https://docs.pololer.my.id/encoding/tahu-tentang-native-res.md): Mungkin sulit untuk menentukan resolusi asli sebuah anime. Encoder telah melakukan banyak penelitian sendiri, dan halaman ini mendokumentasikan hasil yang ditemukan.
+
+## Misc
+
+- [OOP (Object-Oriented Programming)](https://docs.pololer.my.id/misc/oop.md): OOP adalah paradigma pemrograman yang mengorganisir kode menjadi object — sebuah unit yang menggabungkan data (atribut) dan perilaku (method).
+- [Panduan Menggunakan Adblock untuk Mendownload Anime: Userscript, DNS, dan VPN](https://docs.pololer.my.id/misc/adblock.md): Mendownload anime dari situs tertentu sering kali dihadapkan dengan tantangan berupa iklan yang berlebihan dan mengganggu. Iklan-iklan ini tidak hanya memperlambat proses browsing tetapi juga bisa berisiko karena beberapa mungkin mengarahkan ke situs berbahaya.
+- [Storage: Perbedaan Kapasitas Desimal vs Biner](https://docs.pololer.my.id/misc/ilmu-storage.md): Seringkali kita membeli harddisk atau SSD dengan label 1 TB, namun saat dipasang di komputer (terutama Windows), kapasitas yang terbaca hanya sekitar 931 GB.
