@@ -13,7 +13,7 @@
 
 ## Misc
 
-- [OOP — Studi Kasus: vsscale dari vs-jetpack](https://docs.pololer.my.id/misc/oop-encoding.md): Dokumen ini membahas tiga pilar Object-Oriented Programming (OOP) menggunakan studi kasus nyata dari modul vsscale milik Jaded Encoding Thaumaturgy (JET), sebuah library Python untuk rescaling video anime menggunakan VapourSynth.
 - [OOP (Object-Oriented Programming)](https://docs.pololer.my.id/misc/oop.md): OOP adalah paradigma pemrograman yang mengorganisir kode menjadi object — sebuah unit yang menggabungkan data (atribut) dan perilaku (method).
+- [OOP dalam Encoding Anime: Studi Kasus vsscale dari vs-jetpack](https://docs.pololer.my.id/misc/oop-vsscale.md): Object-Oriented Programming (OOP) sering terasa abstrak saat dipelajari lewat contoh "hewan" atau "kendaraan". Artikel ini mencoba menjawab tiga pilar OOP
 - [Panduan Menggunakan Adblock untuk Mendownload Anime: Userscript, DNS, dan VPN](https://docs.pololer.my.id/misc/adblock.md): Mendownload anime dari situs tertentu sering kali dihadapkan dengan tantangan berupa iklan yang berlebihan dan mengganggu. Iklan-iklan ini tidak hanya memperlambat proses browsing tetapi juga bisa berisiko karena beberapa mungkin mengarahkan ke situs berbahaya.
 - [Storage: Perbedaan Kapasitas Desimal vs Biner](https://docs.pololer.my.id/misc/ilmu-storage.md): Seringkali kita membeli harddisk atau SSD dengan label 1 TB, namun saat dipasang di komputer (terutama Windows), kapasitas yang terbaca hanya sekitar 931 GB.
