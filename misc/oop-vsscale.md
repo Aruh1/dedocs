@@ -112,9 +112,9 @@ Contoh output:
 ScalingArgs(width=1600, height=900, src_width=1600, src_height=900, src_top=0, src_left=0, mode='hw')
 ```
 
-![](https://cdn.pololer.web.id/5vx6tl.png)
+![](https://cdn.lewd.host/ejUZdmaN.png)
 
-![](https://cdn.pololer.web.id/hbmrt8.png)
+![](https://cdn.lewd.host/rT2kPpGW.png)
 
 Bisa lihat di [sini](https://slow.pics/c/kCqwqiIT?image-fit=none).
 
