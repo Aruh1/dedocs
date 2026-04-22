@@ -88,19 +88,42 @@ rs.upscale      # → hasil akhir yang siap dipakai
 Dalam praktik encoding anime, kita sering hanya butuh tiga baris:
 
 ```python
-from vsscale import Rescale
 from vskernels import Bilinear
-from vstools import core, set_output
+from vsmlrt import Backend
+from vsscale import ArtCNN, Rescale
+from vssource import BestSource
+from vstools import depth
+from vsview import set_output
 
-src = core.lsmas.LWLibavSource(r"Anime_Episode01.mkv")
+src = BestSource.source(r"Anime_Episode01.m2ts")
+src = depth(src, 16)
 
-# Semua kompleksitas tersembunyi di dalam object rs
-rs = Rescale(src, 720, Bilinear)
+native_res = dict(height=900)
+rs = Rescale(
+    src,
+    **native_res,
+    kernel=Bilinear(),
+    upscaler=ArtCNN.R8F64(backend=Backend.OV_GPU(fp16=True)),
+)
 
-set_output(src,       "Source 1080p")
-set_output(rs.descale, "Descaled 720p")
-set_output(rs.upscale, "Upscaled kembali ke 1080p")
+print(rs.descale_args)
+set_output(src)
+set_output(rs.descale, "descale")
+set_output(rs.rescale, "Same Kernel Rescale")
+set_output(rs.doubled, "doubled")
+set_output(rs.upscale, "Upscaled")
 ```
+
+Contoh output:
+```python
+ScalingArgs(width=1600, height=900, src_width=1600, src_height=900, src_top=0, src_left=0, mode='hw')
+```
+
+![](https://cdn.pololer.web.id/5vx6tl.png)
+
+![](https://cdn.pololer.web.id/hbmrt8.png)
+
+Bisa lihat di [sini](https://slow.pics/c/kCqwqiIT?image-fit=none).
 
 Kita tidak perlu tahu:
 - Bagaimana `ScalingArgs` dihitung untuk fractional descale
